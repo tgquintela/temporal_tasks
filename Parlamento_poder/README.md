@@ -50,11 +50,12 @@ Recordemos los resultados de las elecciones:
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 62 | 25 | 16 | 11 | 11 | 10 |
 
-Si aplicamos el índice de Shapley, sobre un mínimo de victoria de la mitad de los diputados, nos encontraremos estos resultados:
+Si aplicamos el índice de Shapley, sobre un mínimo de victoria de la mitad de los diputados (comparados con la proporción de diputados que tienen), nos encontraremos estos resultados:
 
-| JxSi | Cs | PSC | CSQEP | PP | CUP |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| 2/3 | 1/15 | 1/15 | 1/15 | 1/15 | 1/15 |
+| *medida* | JxSi | Cs | PSC | CSQEP | PP | CUP |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Proporc. | 0.46 | 0.18 | 0.12 | 0.08 | 0.08 | 0.07 |
+| Shapley | 2/3 | 1/15 | 1/15 | 1/15 | 1/15 | 1/15 |
 
 Para los no crédulos les dejo aquí un snippet usando mi código de github para calcularlo.
 
@@ -77,9 +78,10 @@ Esto lo único que nos explica de lo que actualmente pasa en el parlament no es 
 
 Si nos vamos al índice de Bhanzaf obtendremos:
 
-| JxSi | Cs | PSC | CSQEP | PP | CUP |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| 0.75 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 |
+| *medida* | JxSi | Cs | PSC | CSQEP | PP | CUP |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Proporc. | 0.46 | 0.18 | 0.12 | 0.08 | 0.08 | 0.07 |
+| Banzhaf | 0.75 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 |
 
 Aquí el snippet:
 ```python
@@ -111,13 +113,18 @@ En el [Centre d'Estudis Catalans](http://ceo.gencat.cat) nos ofrece en parte alg
 
  Aquí mostraré el posicionamiento de otros y a ellos mismos.
 
-| ejes | JxSi | Cs | PSC | CSQEP | PP | CUP |
+| *ejes* | JxSi | Cs | PSC | CSQEP | PP | CUP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | auto izq-drcha | 3.82 | 5.15 | 4.08 | 3.27 | 6.24 | 2.33 |
 | izq-drcha | 4.86 | 7.58 | 5.08 | 3.77 | 8.74 | 1.76 |
 | auto esp-cat | 8.06 | 3.89 | 4.20 | 5.47 | 3.18 | 7.95 |
 | esp-cat | 7.73 | 2.27 | 4.01 | 6.23 | 1.33 | 8.44 |
-| indp. | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
+| independencia | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
+| auto izq-drcha | 3.82 | 5.15 | 4.08 | 3.27 | 6.24 | 2.33 |
+| izq-drcha | 4.86 | 7.58 | 5.08 | 3.77 | 8.74 | 1.76 |
+| auto esp-cat | 8.06 | 3.89 | 4.20 | 5.47 | 3.18 | 7.95 |
+| esp-cat | 7.73 | 2.27 | 4.01 | 6.23 | 1.33 | 8.44 |
+| independencia | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
 [Fuente](http://ceo.gencat.cat/ceop/AppJava/loadFile?fileId=24313&fileType=1)
 
 Con estos números podemos medir distancias y calcular ciertas matrices de proximidad normalizadas. Estas matrices las podemos interpretar como cuán probable es dicha coalición uno a uno, o cuán probable es que ambos esten en la misma coalición.
@@ -126,18 +133,18 @@ Para medir cuán poderoso es un jugador utilizando las matrices de afinidad pol�
 
 Para hacer lo explicado en este párrafo hay diferentes formas de realizarlo. En los siguientes cálculos utilizaremos una de ellas para conseguir los resultados siguientes:
 
-| ejes | JxSi | Cs | PSC | CSQEP | PP | CUP |
+| *medida* | JxSi | Cs | PSC | CSQEP | PP | CUP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| auto izq-drcha || 3.82 | 5.15 | 4.08 | 3.27 | 6.24 | 2.33 |
-| izq-drcha | 4.86 | 7.58 | 5.08 | 3.77 | 8.74 | 1.76 |
-| auto esp-cat | 8.06 | 3.89 | 4.20 | 5.47 | 3.18 | 7.95 |
-| esp-cat | 7.73 | 2.27 | 4.01 | 6.23 | 1.33 | 8.44 |
-| indp. | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
 | auto izq-drcha | 3.82 | 5.15 | 4.08 | 3.27 | 6.24 | 2.33 |
 | izq-drcha | 4.86 | 7.58 | 5.08 | 3.77 | 8.74 | 1.76 |
 | auto esp-cat | 8.06 | 3.89 | 4.20 | 5.47 | 3.18 | 7.95 |
 | esp-cat | 7.73 | 2.27 | 4.01 | 6.23 | 1.33 | 8.44 |
-| indp. | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
+| independencia | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
+| auto izq-drcha | 3.82 | 5.15 | 4.08 | 3.27 | 6.24 | 2.33 |
+| izq-drcha | 4.86 | 7.58 | 5.08 | 3.77 | 8.74 | 1.76 |
+| auto esp-cat | 8.06 | 3.89 | 4.20 | 5.47 | 3.18 | 7.95 |
+| esp-cat | 7.73 | 2.27 | 4.01 | 6.23 | 1.33 | 8.44 |
+| independencia | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
 
 
 Para los no credulos podéis mirar la forma decidida para calcularlos dentro del código subido a github o utilizarlo para obtener los resultados corriendo este script:
@@ -193,7 +200,7 @@ Tenemos diferentes combinaciones para utilizar debido a la cantidad de confluenc
 
 Para construir la matriz de similitud, podemos utilizar el posicionamiento en el eje izquierda-derecha que según el [CIS de Enero 2016](http://www.cis.es/cis/export/sites/default/-Archivos/Marginales/3120_3139/3124/Es3124mar.pdf) es:
 
-| ejes | PP | PSOE | Podemos | Cs | ERC | DiL | PNV | IU | Bildu | CC |
+| *ejes* | PP | PSOE | Podemos | Cs | ERC | DiL | PNV | IU | Bildu | CC |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | izq-drcha | 8.28 | 4.49 | 2.26 | 6.65 | 3.01 | 6.34 | 5.97 | 2.27 | 2.92 | 5.96 |
 
