@@ -1,6 +1,6 @@
 
 # Poder, parlamentos y democracia (I)
-## Un primer análisis sobre los parlamentos de Catalunya y España en 2015
+### Un primer análisis sobre los parlamentos de Catalunya y España en 2015
 ## Introducción
 Año 2015. España sufre una invasión mediática. Sus televisiones, periódicos y cualquier massive media, redes sociales, pequeños periódicos digitales, televisiones y foros se ven _okupados_ por una serie de especimenes que nos dicen siempre lo que queremos oir y nos venden soluciones fáciles a problemas complejos. Son los políticos. El año 2015 se consagra como el año electoral por excelencia de la historia democrática de España.
 Nunca antes habían coincidido elecciones municipales, catalanas (convertidas en centrales en el sistema político español) y estatales, con un pequeño aperitivo de las europeas de 2014 donde se nos dejó intuir que las cosas habían cambiado.
@@ -115,7 +115,7 @@ De estas datos medibles que podriamos pensar es en la percepción de los ciudada
 O para _simplificar_, en alguno de sus ejes como la percepción que tienen del eje derecha-izquierda de esos partidos. Existen encuestas de opinión que nos aclararian esta circunstancia. Aunque tampoco parece que sea lo más descriptivo de la situación que sucede en el Parlament, quizás en clave modelo de estado (autonomismo-independentismo) podría ser más descriptivo.
 En el [Centre d'Estudis Catalans](http://ceo.gencat.cat) nos ofrece en parte alguna de estas repuestas. Nos da una valoración del eje derecha-izquierda y en españolismo-catalanismo (que no independentismo o permanencia). También podemos encontrar algunos posicionamiento sobre la indpendencia por voto a partidos.
 
-Aquí mostraré el posicionamiento de otros y a ellos mismos.
+Aquí mostraré el posicionamiento de otros y a ellos mismos, sacado del [primer CEO de 2016](http://ceo.gencat.cat/ceop/AppJava/loadFile?fileId=24313&fileType=1):
 
 | *ejes* | JxSi | Cs | PSC | CSQEP | PP | CUP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -124,7 +124,6 @@ Aquí mostraré el posicionamiento de otros y a ellos mismos.
 | auto esp-cat | 8.06 | 3.89 | 4.20 | 5.47 | 3.18 | 7.95 |
 | esp-cat | 7.73 | 2.27 | 4.01 | 6.23 | 1.33 | 8.44 |
 | independencia | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
-[Fuente](http://ceo.gencat.cat/ceop/AppJava/loadFile?fileId=24313&fileType=1)
 
 Con estos números podemos medir distancias y calcular ciertas matrices de proximidad normalizadas. Estas matrices las podemos interpretar como cuán probable es dicha coalición uno a uno, o cuán probable es que ambos esten en la misma coalición.
 
@@ -134,16 +133,19 @@ Para hacer lo explicado en este párrafo hay diferentes formas de realizarlo. En
 
 | *medida* | JxSi | Cs | PSC | CSQEP | PP | CUP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| auto izq-drcha | 3.82 | 5.15 | 4.08 | 3.27 | 6.24 | 2.33 |
-| izq-drcha | 4.86 | 7.58 | 5.08 | 3.77 | 8.74 | 1.76 |
-| auto esp-cat | 8.06 | 3.89 | 4.20 | 5.47 | 3.18 | 7.95 |
-| esp-cat | 7.73 | 2.27 | 4.01 | 6.23 | 1.33 | 8.44 |
-| independencia | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
-| auto izq-drcha | 3.82 | 5.15 | 4.08 | 3.27 | 6.24 | 2.33 |
-| izq-drcha | 4.86 | 7.58 | 5.08 | 3.77 | 8.74 | 1.76 |
-| auto esp-cat | 8.06 | 3.89 | 4.20 | 5.47 | 3.18 | 7.95 |
-| esp-cat | 7.73 | 2.27 | 4.01 | 6.23 | 1.33 | 8.44 |
-| independencia | 81.9 | 1.6 | 7.3 | 9.8 | 2.6 | 78.2 |
+| Proporc. | .459 | .185 | 0.118 | 0.081 | 0.081 | 0.074 |
+| Shapley | .667 | .067 | .067 | .067 | .067 | .067 |
+| Banzhaf | .750 | .050 | .050 | .050 | .050 | .050 |
+| win_i_d_auto | .322 | .138 | .153 | .147 | .113 | .127 |
+| wor_i_d_auto | .368 | .128 | .155 | .144 | .093 | .111 |
+| win_i_d | .363 | .122 | .165 | .150 | .095 | .103 |
+| wor_i_d | .412 | .109 | .170 | .146 | .077 | .085 |
+| win_esp_cat_auto | .351 | .124 | .130 | .145 | .106 | .144 |
+| wor_esp_cat_auto | .362 | .117 | .126 | .150 | .092 | .153 |
+| win_esp_cat | .383 | .095 | .135 | .165 | .070 | .150 |
+| wor_esp_cat | .408 | .082 | .129 | .173 | .057 | .151 |
+| win_independ | .438 | .073 | .094 | .102 | .077 | .214 |
+| wor_independ | .431 | .067 | .091 | .101 | .071 | .240 |
 
 
 Para los no crédulos podéis mirar la forma decidida para calcularlos dentro del código subido a github o utilizarlo para obtener los resultados corriendo este _script_:
@@ -174,11 +176,11 @@ win_esp_cat = weighted_winning_coalitions(seats, matrix_esp_cat, win_thr)
 win_esp_cat_auto = weighted_winning_coalitions(seats, matrix_esp_cat_auto, win_thr)
 win_ind = weighted_winning_coalitions(seats, matrix_independencia, win_thr)
 
-#wor_i_d = weighted_worsable_coalitions(seats, matrix_i_d, win_thr)
-#wor_i_d_auto = weighted_worsable_coalitions(seats, matrix_i_d_auto, win_thr)
-#wor_esp_cat = weighted_worsable_coalitions(seats, matrix_esp_cat, win_thr)
-#wor_esp_cat_auto = weighted_worsable_coalitions(seats, matrix_esp_cat_auto, win_thr)
-#wor_ind = weighted_worsable_coalitions(seats, matrix_independencia, win_thr)
+wor_i_d = weighted_worsable_coalitions(seats, matrix_i_d, win_thr)
+wor_i_d_auto = weighted_worsable_coalitions(seats, matrix_i_d_auto, win_thr)
+wor_esp_cat = weighted_worsable_coalitions(seats, matrix_esp_cat, win_thr)
+wor_esp_cat_auto = weighted_worsable_coalitions(seats, matrix_esp_cat_auto, win_thr)
+wor_ind = weighted_worsable_coalitions(seats, matrix_independencia, win_thr)
 
 ```
 
@@ -213,6 +215,8 @@ Aplicando las mismas medidas utilizadas previamente nos encontramos con:
 | win_i_d | .192 | .172 | .117 | .106 | .067 | .089 | .088 | .043 | .053 | .074 |
 | wor_i_d | .156 | .203 | .101 | .110 | .062 | .097 | .098 | .036 | .050 | .086 |
 
+que podéis calcular utilizando el siguiente _script_:
+
 ```python
 from cooperativegames import shapley_index, banzhaf_index,\
     weighted_winning_coalitions, weighted_worsable_coalitions
@@ -236,7 +240,7 @@ wor_i_d = weighted_worsable_coalitions(seats, matrix_i_d, win_thr)
 No hemos incluido los pequeños matices, ni otros ejes que pueden ser relevantes en las discrepancias para pactos, pero podemos sacar pequeñas conclusiones de estas medidas y lo que nos dicen. PSOE tiene más poder que la proporción representativa de diputados que tienen. PP y Podemos mucho menos de la proporción de escaños que tiene. El parlamento se lo da o parece ser que así nos lo indican estas medidas. Pero quedan lejos de acercarse a una proporción dominante.
 
 Mientras en el caso del Parlament nos encontramos dos _clusters_ (grupos) practicamente cerrados en los que parece que cada _cluster_ va por su lado y hay una desconexión clara entre ambos (una polarización clara). En el que uno de los dos tiene claramente más tamaño que el otro y por tanto guía el camino y controla el poder.
-En el caso del Congreso de Diputados de la XI legislatura, tenemos muchos más puentes. No parece haber unos grupos claros, con varios partidos que pueden pivotar con cierta libertad según les convengan para conseguir más poder e influencia sobre decisiones. Estas medidas lo que acaban pareciendo premiar es una cierta centralidad relativa, la centralidad que es asignada por el parlamento votado por la gente. En este congreso la media ponderada de ideología política que representa al congreso parece ser _5.64_ y por tanto los más beneficiados por estas medidas de poder son CC (_5.96_), PNV (_5.97_) o PSOE (_4.49_).
+En el caso del Congreso de Diputados de la XI legislatura, tenemos muchos más puentes. No parece haber unos grupos claros, con varios partidos que pueden pivotar con cierta libertad según les convengan para conseguir más poder e influencia sobre decisiones. Estas medidas lo que acaban pareciendo premiar es una cierta centralidad relativa, la centralidad que es asignada por el parlamento votado por la gente. En este congreso la media ponderada de ideología política que representa al congreso parece ser _5.64_ y por tanto los más beneficiados por estas medidas de poder son CC (_5.96_), PNV (_5.97_), DiL (_6.34_) o PSOE (_4.49_).
 
 Que la centralidad da poder parece un hecho que consciente o inconscientemente conocen y por tanto utilizan todos los partidos. Unos asignandose la centralidad absoluta en el eje derecha-izquierda u otros ejes como el PP, otros proponiendose puntos intermedios y haciendo balances entre sus vecinos en un posible espacio político como son Cs y PSOE, o proponiendose mediador en otros ejes como en el dilema territorial, como Podemos.
 
