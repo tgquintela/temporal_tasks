@@ -133,7 +133,7 @@ Para hacer lo explicado en este párrafo hay diferentes formas de realizarlo. En
 
 | *medida* | JxSi | Cs | PSC | CSQEP | PP | CUP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Proporc. | .459 | .185 | 0.118 | 0.081 | 0.081 | 0.074 |
+| Proporc. | .459 | .185 | .118 | .081 | .081 | .074 |
 | Shapley | .667 | .067 | .067 | .067 | .067 | .067 |
 | Banzhaf | .750 | .050 | .050 | .050 | .050 | .050 |
 | win_i_d_auto | .322 | .138 | .153 | .147 | .113 | .127 |
@@ -185,6 +185,16 @@ wor_ind = weighted_worsable_coalitions(seats, matrix_independencia, win_thr)
 ```
 
 En estos resultados podemos ver que la CUP pasa a tener más poder que otros como Cs, PSC, CSQEP y PP, a pesar de tener menos representantes. Esto es debido a que es el aliado más natural al partido con más cercanía a la mayoría absoluta y solo basta con su alianza para conseguirla.
+
+En el caso extremo de comenzar la independencia o no veriamos que dividiriamos el parlamento en dos grupos: los que están a favor (JxSi y CUP) y los que estan en contra (Cs, PSC, CSQEP y PP), con todos los matices que podamos poner. En este caso extremo de total discrepancia, bastante similar lo que llevamos vivido hasta hoy en Junio de 2016, quedaría:
+
+| *medida* | JxSi | Cs | PSC | CSQEP | PP | CUP |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| extremo | 0.5 | 0.0 | 0.0 | 0.0 | 0.0 | 0.5 |
+
+En este hipotético caso, los del grupo que no llegan a la mayoría quedan fuera de las decisiones y sus votaciones no valen para nada, mientras que los dos que pueden 
+decidir esto, acaban repartiendose el poder restante, ya que uno sin el otro no pueden hacer nada (son jugadores simétricos en estas circunstancias), sin tener en cuenta el número de diputados de cada uno (para las votaciones, no para el resto de medidas parlamentarias y gestiones que aquí no tratamos).
+Esto tiene sus dilemas democráticos, que si eso ya otro día trataremos. Dilemas muy interesantes.
 
 
 ## Aplicación sobre el Congreso de los Diputados
