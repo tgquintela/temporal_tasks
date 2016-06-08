@@ -1,6 +1,7 @@
 
-
-# Introducción
+# Poder, parlamentos y democracia (I)
+## Un primer análisis sobre los parlamentos de Catalunya y España en 2015
+## Introducción
 Año 2015. España sufre una invasión mediática. Sus televisiones, periódicos y cualquier massive media, redes sociales, pequeños periódicos digitales, televisiones y foros se ven _okupados_ por una serie de especimenes que nos dicen siempre lo que queremos oir y nos venden soluciones fáciles a problemas complejos. Son los políticos. El año 2015 se consagra como el año electoral por excelencia de la historia democrática de España.
 Nunca antes habían coincidido elecciones municipales, catalanas (convertidas en centrales en el sistema político español) y estatales, con un pequeño aperitivo de las europeas de 2014 donde se nos dejó intuir que las cosas habían cambiado.
 Un cambio de paradigma, una transición de fase. Pasábamos de un bipartidismo estable a un quatripartidismo estable y España comenzaba a conocer en toda su completa magnitud lo que es un sistema de elección de gobierno parlamentario.
@@ -16,7 +17,7 @@ Cada sistema tiene unas u otras propiedades. Algunas más y otras menos deseadas
 La investidura en sistemas como el español ha puesto en el debate político la justicia o injusticia de esa decisión y como se reparte el poder y las responsabilidades en un sistema de elección (y votación) parlamentaria.
 Ya que el parlamento no vota solo la investidura si no otras leyes, los presupuestos tendremos que buscar herramientas matemáticas que nos ayuden a _entender lo que pasa realmente_, a entender las dinámicas reales, más allá de ideologias e intereses.
 
-# Teoria de juegos y las negociaciones
+## Teoria de juegos y las negociaciones
 En plena crisis griega surgió la figura de un roquero, rapado y motero, interminablemente alto y con un atractivo especial. Intelectualmente imponente decidió seguir una estrategia de negociación con los ministros de finanzas de la eurozona no esperada por la mayoría. Y volvió a resucitar por enésima vez la teoria de juegos para el uso de políticos. Teoria de juegos que para la gran mayoría de los políticos y los mortales significa la película archiconocida ('[_A beautiful mind_](http://www.imdb.com/title/tt0268978/)') de la vida de uno de sus creadores John Nash, y alguna frases hechas como "es un juego de suma cero", o "hay que buscar el equilibrio de Nash", normalmente mal empleadas. En circulos un poco más intelectuales estaría el mantra de "[La tragedia de los comunes](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)" para justificar uno ideología y la contraria. Al final todos han intentado apropiarse de la teoria de juegos. En ciencia las cosas han sido mucho más serias y ha sido una de las teorias más influyentes en ciencia, aportando en diferentes campos de la ciencia muy diversos.
 
 Tampoco tenemos suficiente espacio y tiempo para tratar de enseñar las bases de esta teoria en unas pocas líneas, pero voy a intentar resumir su enfoque básico y su importancia de la forma más breve posible.
@@ -25,7 +26,7 @@ De esta forma una decisión propia no siempre será buena o mala por ella misma,
 
 A todo esto, la aplicación básica y más conocida de la teoría de juegos es cuales son las acciones por las cuales todos los agentes estarían resignados a ello. Y esa es la palabra, resignados y no satisfechos, conformados, contentos o enfadados. Y digo resignados, porque ninguno de los agentes cambiaría su acción o decisión unilateralmente. A esto es a lo que le llaman equilibrio de Nash. No es el mejor de los resultados entre todas las posibilidades, ni para el colectivo ni para los agentes individualmente, pero sí que es un resultado que por malo que sea nadie cambiaría sus acciones de forma unilateral.
 
-# Teoria de juegos y el poder de los grupos parlamentarios
+## Teoria de juegos y el poder de los grupos parlamentarios
 Entre la teoría de juegos, no solo se estudia cuales son los equilibros estables o situaciones más probables (en las aplicaciones sobre el mundo real). Este es uno de los casos que nos pertoca, el estudio de poder en los sistemas de votaciones con más de un voto por agente.
 Estos sistemas son modelizados en la teoría de juegos como juegos cooperativos.
 El caso específico de estos sistemas es que las acciones que pueden tomar los agentes es con quienes cooperar y el reparto de beneficios viene dado por el resultado final de las coaliciones.
@@ -37,9 +38,9 @@ A partir de ello podemos construirnos definiciones de poder de cada jugador (gru
 * [Valor de shapely](https://en.wikipedia.org/wiki/Shapley%E2%80%93Shubik_power_index)(o índice de Shapley-shubik en nuestro caso de votación): en el cual las coaliciones se forman mediante ordenación aleatoria. El valor calculado es el valor esperado (media) del premio que se repartiran los ganadores en todas las ordenaciones posibles, considerando que ganan todos los primeros necesarios para superar la votación. En esta medida solo computamos las posibles combinaciones con victorias mínimas del 'si' (y considerando un mínimo fijo, no mayorias simples). Podemos atribuir a las victorias 1 y a las derrotas 0. Nuestro valores de shapely quedarán entre 0 y 1 y entre todos sumarán valor 1.
 * [Índice de poder de Bhanzaf](https://en.wikipedia.org/wiki/Banzhaf_power_index): en el cual se mide cuantas veces respecto al total un jugador es pivote. Un jugador es pivote si convierte una coalición perdedora en una ganadora. Esto nos da un índice de poder en el cual todos estan entre 0 y 1 y suman 1. Además el jugador dictador (el que tiene mayoria absoluta para el límite dado de la votación) tiene 1, y los jugadores falsos (los que no tienen voz a la hora de convertir perdedores en ganadores) tienen valor 0.
 
-Aplicar estas medidas a las votaciones parlamentarias no es nuevo. Así las aprendí yo y así leí no hace mucho un [artículo de Elpais aplicandolas al actual parlamento](http://politica.elpais.com/politica/2016/02/26/actualidad/1456513163_817921.html). Lo cierto es que me sorprendió descubrirlo, más que nada porque pensaba escribir una entrada en mi futuro blog entonces sobre ello (como puede demostrar mis códigos en [github](https://github.com/tgquintela/CooperativeGames) :D), aunque discrepo en el uso que hace de ellas y sus conclusiones que deja en lineas y entre lineas.
+Aplicar estas medidas a las votaciones parlamentarias no es nuevo. Así las aprendí yo en clase de _Teoría de Juegos_ y así leí no hace mucho un [artículo de Elpais aplicandolas al actual parlamento](http://politica.elpais.com/politica/2016/02/26/actualidad/1456513163_817921.html). Lo cierto es que me sorprendió descubrirlo, más que nada porque pensaba escribir una entrada en mi futuro blog entonces sobre ello (como puede demostrar mis códigos en [github](https://github.com/tgquintela/CooperativeGames) :D), aunque discrepo en el uso que hace de ellas y sus conclusiones que deja en lineas y entre lineas.
 
-# Aplicación sobre el Parlament de Catalunya
+## Aplicación sobre el Parlament de Catalunya
 Para simplificar la complejidad de 350 dipudatos y diputadas y unas cuantas fuerzas políticas en el parlamento nos iremos a Catalunya. 'Solo' 6 grupos parlamentarios y 135 diputados. El Parlament nos ayudará a usar primeramente estas medidas y a comenzar a ser críticos sobre ellas.
 Cabe decir que en estas medidas medimos SOLO el poder que se tiene en votaciones puntuales o generales, pero no el poder general. Para eso se debería tener en cuenta las complejidades organizativas del propio Parlament y sus organos de gobierno propio (Presidencia, vicepresidencia y secretarios) que controlan y regulan el dia a dia del parlament.
 Además obviaremos la posibilidad de abstención y de mayorias simples (que no tienen un mínimo de victoria fijo).
@@ -83,7 +84,7 @@ Si nos vamos al índice de Bhanzaf obtendremos:
 | Proporc. | 0.46 | 0.18 | 0.12 | 0.08 | 0.08 | 0.07 |
 | Banzhaf | 0.75 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 |
 
-Aquí el snippet:
+Aquí el _script_:
 ```python
 # Resultados
 seats = [62, 25, 16, 11, 11, 10]
@@ -184,7 +185,7 @@ win_ind = weighted_winning_coalitions(seats, matrix_independencia, win_thr)
 En estos resultados podemos ver que la CUP pasa a tener más poder que otros como Cs, PSC, CSQEP y PP, a pesar de tener menos representantes. Esto es debido a que es el aliado más natural al partido con más cercanía a la mayoría absoluta y solo basta con su alianza para conseguirla.
 
 
-# Aplicación sobre el Congreso de los Diputados
+## Aplicación sobre el Congreso de los Diputados
 Aplicaremos las mismas medidas que hemos aprendido para el Congreso de los Diputados de la XI legislatura. En este caso han corrido también rios de tinta por la complicación y la final falta de acuerdo para la investidura.
 Veremos a ver si podemos ver algo diferente aplicando las medidas oportunas.
 
@@ -202,6 +203,15 @@ Para construir la matriz de similitud, podemos utilizar el posicionamiento en el
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | izq-drcha | 8.28 | 4.49 | 2.26 | 6.65 | 3.01 | 6.34 | 5.97 | 2.27 | 2.92 | 5.96 |
 
+Aplicando las mismas medidas utilizadas previamente nos encontramos con:
+
+| *ejes* | PP | PSOE | Podemos | Cs | ERC | DiL | PNV | IU | Bildu | CC |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Proporc. | .351 | .257 | .197 | .114 | .026 | .023 | .017 | .006 | .006 | .003 |
+| Shapley | .402 | .220 | .220 | .070 | .030 | .025 | .020 | .006 | .006 | .002 |
+| Banzhaf | .378 | .210 | .210 | .084 | .040 | .033 | .026 | .008 | .008 | .003 |
+| win_i_d | .192 | .172 | .117 | .106 | .067 | .089 | .088 | .043 | .053 | .074 |
+| wor_i_d | .156 | .203 | .101 | .110 | .062 | .097 | .098 | .036 | .050 | .086 |
 
 ```python
 from cooperativegames import shapley_index, banzhaf_index,\
@@ -223,15 +233,17 @@ wor_i_d = weighted_worsable_coalitions(seats, matrix_i_d, win_thr)
 
 ```
 
-No hemos incluido los pequeños matices, ni otros ejes que pueden ser relevantes en las discrepancias para pactos, pero podemos sacar pequeñas conclusiones de estas medidas y lo que nos dicen. PSOE y Cs tienen más poder que la proporción representativa que tienen. El parlamento se lo da o parece ser que así nos lo indican estas medidas. Pero quedan lejos de acercarse a una proporción dominante.
+No hemos incluido los pequeños matices, ni otros ejes que pueden ser relevantes en las discrepancias para pactos, pero podemos sacar pequeñas conclusiones de estas medidas y lo que nos dicen. PSOE tiene más poder que la proporción representativa de diputados que tienen. PP y Podemos mucho menos de la proporción de escaños que tiene. El parlamento se lo da o parece ser que así nos lo indican estas medidas. Pero quedan lejos de acercarse a una proporción dominante.
 
-Mientras en el caso del Parlament nos encontramos dos clusters (grupos) practicamente cerrados en los que parece que cada cluster va por su lado y hay una desconexión clara entre ambos (una polarización clara). En el que uno de los dos tiene claramente más tamaño que el otro y por tanto guía el camino y controla el poder.
-En el caso del Congreso de Diputados de la XI legislatura, tenemos muchos más puentes. No parece haber unos grupos claros, con varios partidos que pueden pivotar con cierta libertad según les convengan para conseguir más poder e influencia sobre decisiones. Estas medidas lo que acaban pareciendo premiar es una cierta centralidad relativa, la centralidad que es asignada por el parlamento votado por la gente. Un hecho que consciente o inconscientemente utilizan todos los partidos, unos asignandose la centralidad absoluta en el eje drcha-izqda u otros ejes como el PP, otros proponiendose puntos intermedios y haciendo balances entre sus vecinos en un posible espacio político como son Cs y PSOE, o proponiendose mediador en otros ejes como en el dilema territorial, como Podemos.
+Mientras en el caso del Parlament nos encontramos dos _clusters_ (grupos) practicamente cerrados en los que parece que cada _cluster_ va por su lado y hay una desconexión clara entre ambos (una polarización clara). En el que uno de los dos tiene claramente más tamaño que el otro y por tanto guía el camino y controla el poder.
+En el caso del Congreso de Diputados de la XI legislatura, tenemos muchos más puentes. No parece haber unos grupos claros, con varios partidos que pueden pivotar con cierta libertad según les convengan para conseguir más poder e influencia sobre decisiones. Estas medidas lo que acaban pareciendo premiar es una cierta centralidad relativa, la centralidad que es asignada por el parlamento votado por la gente. En este congreso la media ponderada de ideología política que representa al congreso parece ser _5.64_ y por tanto los más beneficiados por estas medidas de poder son CC (_5.96_), PNV (_5.97_) o PSOE (_4.49_).
+
+Que la centralidad da poder parece un hecho que consciente o inconscientemente conocen y por tanto utilizan todos los partidos. Unos asignandose la centralidad absoluta en el eje derecha-izquierda u otros ejes como el PP, otros proponiendose puntos intermedios y haciendo balances entre sus vecinos en un posible espacio político como son Cs y PSOE, o proponiendose mediador en otros ejes como en el dilema territorial, como Podemos.
 
 Estos son los números que parecen describir la realidad. Después quedan las interpretaciones donde unos asignarán a estos números el reflejo de la decisión de la ciudadanía mientras que otros los colocarán como un reparto de responsabilidades ante los fracasos de las negociaciones que se realicen. Eso ya es política.
 
 
-# Conclusión
+## Conclusión
 Como podemos ver aquí conceptualmente, sí que podemos construir medidas que se adapten y expliquen lo que realmente pasa en los parlamentos, desde medidas derivadas de la teoría de juegos. Esta posibilidad es extendible a muchos problemas de decisiones cooperativas en entornos competitivos como alianzas y busqueda de sinérgias entre empresas en mercado.
 
 Para hacer medidas más predictivas, a parte de necesitar más datos, tendríamos que tener en cuenta dinámicas y procesos dependientes en estrategias de posicionamiento y diferenciación que también podemos ver en el marketing entre empresas en el mercado. Esos partidos centrales que podrían gestionar situaciones para llevar las negociaciones a su propio programa. Esto puede ser barrera para llegar a pactos entre dos partidos sin ser ellos el que se mantiene en la centralidad. Quizás en otra entrada estudie más sobre este tema y podamos aclarar alguna de estas nuevas dudas.
@@ -239,7 +251,7 @@ Para hacer medidas más predictivas, a parte de necesitar más datos, tendríamo
 Espero con esto haber ayudado a gente a entender mejor como funciona un sistema parlamentario, y como es de diferente a uno de votación directa. También a entender la importancia de unos pocos diputados más y los fenómenos y dinámicas que suceden cada día en nuestro parlamento.
 
 
-# Bibliografía
+## Bibliografía
 Para más información:
 
 * Shapley, L. S.; Shubik, M. (1954). _A Method for Evaluating the Distribution of Power in a Committee System_. American Political Science Review 48 (3): 787-792. 
