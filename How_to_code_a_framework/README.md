@@ -79,7 +79,8 @@ Study and explore the possible combinations of parameters which gives similar an
 * Do not copy paste code. It is not beautiful and a not very efficient strategy.
 * [Stackoverflow](http://stackoverflow.com/) is your friend ;)
 * Have patience in the lasts steps of the project. Each change of the code implies to worry about too many other lines dispersed around all the code due to the *strong correlations* there are in framework codes or other codes with strong structure. It is easy to fail trying to guess the time remaining. This is known as the [90-90 rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule).
-* Enjoy programming a lot else there are other easier programming projects.
+* Build interior standards, and try to respect it perfectly. A lack of standards could be a cause of [code smell](https://en.wikipedia.org/wiki/Code_smell).
+* Enjoy programming a lot else there are other easier and less ambitious programming projects.
 
 
 # Conclusions
@@ -89,7 +90,12 @@ Experience and failing is part of the process of learning to check the balances 
 
 If you are thinking to start a project of coding a framework I hope this post was useful. Be patient and good luck.
 
+## Bibliography
+For more information:
 
-
+* Abran, Alain; Moore, James W.; Bourque, Pierre; Dupuis, Robert; Tripp, Leonard L. (2004). _Guide to the Software Engineering Body of Knowledge_. IEEE
+* Ghezzi, Carlo; Mehdi Jazayeri; Dino Mandrioli (2003) [1991]. _Fundamentals of Software Engineering_ (2nd (International) ed.). Pearson Education Prentice-Hall.
+* Gamma, Helm, Johnson & Vlissides (the Gang of Four) (1994). _Design Patterns_. Addison-Wesley
+* Fowler, Martin. [Is Design Dead?](http://www.martinfowler.com/articles/designDead.html)
 
 
