@@ -5,8 +5,8 @@
 First of all, what is a framework and what is the differences with other types of software? In software a framework is an standard way to solve a problem. There are frameworks to encapsulate methodologies of team management and software development, but here I am talking about a code framework. A software coded to tackle some general and diverse problem. This software has to be adaptable to all the diversity that this general problem can bring to us. That  means that the framework by itself is not able to solve any problem but it gives the possibility for the programmers to solve problems with little effort (less than facing the problem from scratch).
 The main properties of a framework are:
 * _Flow control_: the framework controls the main flow of the program. It is said that software frameworks rely on the *Hollywood Principle*: "Don't call us, we'll call you." (or technically known as [inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control)).
-* _Extensibility_: the framework, even it usually has a default behaviour, it has _holes_ (or _hot spots_ in opposite to the _frozen spots_) in which the user has to put functions (precoded and come with the framework) or coded by the user to provided specific functionality.
-* _Immutability of code_: in order to get some functionality the user should not modify the framework code.
+* _Extensibility_: the framework, even it usually has a default behaviour, it has _holes_ (or _hot spots_ as opposed to the _frozen spots_) in which the user has to put functions (precoded and come with the framework) or coded by the user to provided specific functionality.
+* _Immutability of code_: in order to get some functionality the user should not modify the framework code (all the immutable part of the code is known as _frozen spots_ as opposed to _hot spots_).
 
 The requirements and exigences that this class of software produce to the programmers who have to code it are different from the ones required to code scripts, simple software structure or even coding complex structure software. It requires high level of abstraction, well knowledge of the family of problems you are willing to tackle with this framework and taking decisions in form of internal standards which will condition the future coding of other parts of the framework.
 
@@ -83,7 +83,7 @@ Study and explore the possible combinations of parameters which gives similar an
 * Enjoy programming a lot else there are other easier and less ambitious programming projects.
 
 
-# Conclusions
+## Conclusions
 Bad organization in a long project can make the difference. The productivity between a well lead project and an uncoordinated and uncontrolled one is usually huge. Having a good control of the times and a good coordination between the efforts of each one of the team is a differential factor.
 Indeed, all the exposed in that blog post is a general theory that almost everybody knows when they start coding or developing big projects. But this knowledge don't avoid people to get lost and go wrong in most of the essential parts. That is why the actual content is in the between-lines messages and the balances that the post mention. These are the really differential factor.
 Experience and failing is part of the process of learning to check the balances intuitively and apply all the things mentioned in a proper way. And of course, try to not be arbitrary.
