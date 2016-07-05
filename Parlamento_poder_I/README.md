@@ -270,7 +270,7 @@ Para más información:
 * Shapley, L. S.; Shubik, M. (1954). [*A Method for Evaluating the Distribution of Power in a Committee System*](http://journals.cambridge.org/abstract_S0003055400000095). American Political Science Review 48 (3): 787-792. 
 * Banzhaf, John F. (1965), [*Weighted voting doesn't work: A mathematical analysis*](http://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/rutlr19&section=19), Rutgers Law Review 19 (2): 317-343
 * Downs, Anthony (1957). [*An economic theory of democracy*](https://www.goodreads.com/book/show/335514.An_Economic_Theory_of_Democracy). New York.
-* [Programa en github](https://github.com/tgquintela/CooperativeGames)
+* [Mi programa en github](https://github.com/tgquintela/CooperativeGames)
 
 
 
