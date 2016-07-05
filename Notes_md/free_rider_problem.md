@@ -29,8 +29,7 @@ Some of them, as an emergent properties, are very difficult to split benefits or
 
 ***Tags***: Game Theory, Sociology
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Tragedy of the commons](/tragedy_of_the_commons)
 ## Papers
 * Pasour, Jr., E. C. [The Free Rider as a Basis for Government Intervention](https://mises.org/library/free-rider-basis-government-intervention-0). Libertarian Studies.

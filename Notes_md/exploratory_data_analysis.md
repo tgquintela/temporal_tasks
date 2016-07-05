@@ -11,7 +11,6 @@ Related tasks into Exploratory Data Analysis:
 
 ***Tags***: Data science
 
-## See also
-## See also:
+### See also
 [Data extraction](/data_extraction), [Data munging](/data_munging)
 

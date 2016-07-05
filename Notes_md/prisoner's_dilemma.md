@@ -19,8 +19,7 @@ There are a lot of experimental studies carrying out experiments with this game.
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Social dilemma](/social_dilemma)
 ## Papers
 * Fehr, Ernst; Fischbacher, Urs (Oct 23, 2003). [The Nature of human altruism](http://www.iwp.jku.at/born/mpwfst/04/nature02043_f_born.pdf). Nature (Nature Publishing Group) 425 (6960): 785-791.

@@ -8,8 +8,7 @@ Lambda calculus (also written as λ-calculus) is a formal system in mathematical
 
 ***Tags***: Computer science, Artificial Intelligence, Computation theory
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Computer Complexity](/computer_complexity), [Turing Machines](/turing_machines), [Automata theory](/automata_theory), [Theory of computation](/theory_of_computation)
 ## Material
 * https://www.quora.com/How-is-Lambda-Calculus-equivalent-to-the-Turing-machine#

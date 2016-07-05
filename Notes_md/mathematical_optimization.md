@@ -12,8 +12,7 @@ The _local optimal_ is the optimal solution of the optimization problem for a lo
 
 ***Tags***: Computer science, Mathematics, Optimization
 
-## See also
-## See also:
+### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Machine learning](/machine_learning), [Artificial Intelligence](/artificial_intelligence)
 ## Material
 * http://www.pyomo.org/

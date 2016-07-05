@@ -14,7 +14,6 @@ Sequential games with perfect information are often solved by backward induction
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 

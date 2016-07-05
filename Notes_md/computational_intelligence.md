@@ -23,8 +23,7 @@ Computational Intelligence is thus a way of performing like human beings. Indeed
 
 ***Tags***: Computer science, Artificial Intelligence, Optimization
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Mathematical optimization](/mathematical_optimization)
 ## Material
 * http://www.andata.at/en/answer/artificial-intelligence-computational-intelligence-softcomputing-natural-computation-whats-the-difference.html

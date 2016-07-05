@@ -13,8 +13,7 @@ Following notions from the field of mechanism design, we suggest a framework for
 
 ***Tags***: Game Theory, Multi-agent systems, Algorithmics
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Material
 * [Gambit: Software Tools for Game Theory](http://gambit.sourceforge.net/)

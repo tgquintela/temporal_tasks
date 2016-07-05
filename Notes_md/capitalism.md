@@ -14,8 +14,7 @@ Capitalism has existed under many forms of government, in many different times, 
 
 ***Tags***: Economics
 
-## See also
-## See also:
+### See also
 [Economic liberalism](/economic_liberalism)
 ## Books
 * Klein, N. (2007). [The shock doctrine: The rise of disaster capitalism](https://www.goodreads.com/book/show/1237300.The_Shock_Doctrine). Macmillan.

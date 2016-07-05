@@ -14,8 +14,7 @@ where $q$ is real parameter sometimes called entropic-index. When ${\displaystyl
 
 ***Tags***: Statistical Physics, Information Theory, Complex Systems
 
-## See also
-## See also:
+### See also
 [Boltzmann-Gibbs entropy](/boltzmann-gibbs_entropy), [Rényi entropy](/rényi_entropy)
 ## Material
 * http://tsallis.cat.cbpf.br/biblio.htm

@@ -9,8 +9,7 @@ There is also a core experiment in neuroeconomics studies.
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Material
 * Stewart, Ian (May 1999). [A Puzzle for Pirates](). Scientific American 05: 98–99.

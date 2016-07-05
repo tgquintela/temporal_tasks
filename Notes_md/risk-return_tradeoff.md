@@ -12,8 +12,7 @@ One of the simple and most used measures for the risk-return tradeoff is the **S
 
 ***Tags***: Sociology, Game Theory, Portfolio Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Portfolio Theory](/portfolio_theory)
 ## Material
 * http://www.investopedia.com/terms/r/riskreturntradeoff.asp

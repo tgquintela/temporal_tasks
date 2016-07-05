@@ -47,8 +47,7 @@ Possible statistical tests to use:
 
 ***Tags***: Statistics
 
-## See also
-## See also:
+### See also
 [Resampling methods](/resampling_methods)
 ## Papers
 * Loftus, G R (1991). [On the Tyranny of Hypothesis Testing in the Social Sciences](https://www.ics.uci.edu/~sternh/courses/210/loftus91_tyranny.pdf). Contemporary Psychology 36 (2): 102-105.

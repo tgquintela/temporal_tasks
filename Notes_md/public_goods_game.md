@@ -12,8 +12,7 @@ It was applied to study sociology terms as group cohesion or cultural norms. The
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Material
 * http://www.univie.ac.at/virtuallabs/PublicGoods/mixed.html

@@ -12,8 +12,7 @@ Although commons have been known to collapse due to overuse (such as in over-fis
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Material
 * [Governing The Commons](http://www.forbes.com/2009/10/12/elinor-ostrom-commons-nobel-economics-opinions-contributors-vernon-l-smith.html)

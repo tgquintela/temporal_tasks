@@ -15,8 +15,7 @@ Common resampling techniques include:
 
 ***Tags***: Statistics
 
-## See also
-## See also:
+### See also
 [Statistical testing](/statistical_testing), [Sampling](/sampling)
 ## Papers
 * Hesterberg, T., Moore, D. S., Monaghan, S., Clipson, A., & Epstein, R. (2005). [Bootstrap methods and permutation tests](http://statweb.stanford.edu/~tibs/stat315a/Supplements/bootstrap.pdf). Introduction to the Practice of Statistics, 5, 1-70.

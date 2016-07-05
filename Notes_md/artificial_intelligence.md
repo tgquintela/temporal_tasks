@@ -15,8 +15,7 @@ They have strong connections with computer science, mathematics, psychology, lin
 
 ***Tags***: Computer science, Artificial Intelligence
 
-## See also
-## See also:
+### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Computer vision](/computer_vision), [Machine learning](/machine_learning), [Data Analysis](/data_analysis)
 ## Material
 * http://www.huffingtonpost.com/nick-seneca-jankel/ai-vs-human-intelligence-_b_6741814.html

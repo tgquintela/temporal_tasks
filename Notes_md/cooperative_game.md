@@ -20,8 +20,7 @@ There are important concepts related with cooperative games to know:
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Non-cooperative game](/non-cooperative_game)
 ## Papers
 * Shapley, Lloyd S. (1971), [Cores of convex games](), International Journal of Game Theory 1 (1): 11-26

@@ -8,8 +8,7 @@ Economic liberalism also contrasts with protectionism because of its support for
 
 ***Tags***: Economics
 
-## See also
-## See also:
+### See also
 [Capitalism](/capitalism), [Economic freedom](/economic_freedom)
 ## Papers
 * De Haan, J., & Sturm, J. E. (2000). [On the relationship between economic freedom and economic growth](http://down.cenet.org.cn/upfile/34/20051124194831130.pdf). European Journal of Political Economy, 16(2), 215-241.

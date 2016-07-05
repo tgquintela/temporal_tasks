@@ -17,8 +17,7 @@ Studies on numerical modeling of EEG and MEG have also been done.
 
 ***Tags***: Neuroscience, Imaging technique
 
-## See also
-## See also:
+### See also
 [fMRI](/fmri), [PET](/pet), [dMRI](/dmri)
 ## Papers
 * Delorme, A., & Makeig, S. (2004). [EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis](https://escholarship.org/uc/item/52k1t4sz.pdf). Journal of neuroscience methods, 134(1), 9-21.

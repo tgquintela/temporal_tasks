@@ -47,8 +47,7 @@ Game theory is a interdisciplinary cross-field of science in which interacts amo
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Material
 * https://en.wikipedia.org/wiki/Glossary_of_game_theory

@@ -23,8 +23,7 @@ In March 2011, the journal Nature published a pair of articles on micro-connecto
 
 ***Tags***: Neuroscience
 
-## See also
-## See also:
+### See also
 [Functional connectivity](/functional_connectivity), [Effective connectivity](/effective_connectivity), [Connectomics](/connectomics)
 ## Papers
 * Sporns, O. (2013). [The human connectome: origins and challenges](http://www.naturalezacienciaysociedad.org/wp-content/uploads/2013/09/connectome-9.pdf). Neuroimage, 80, 53-61.

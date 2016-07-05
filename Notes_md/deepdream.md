@@ -11,8 +11,7 @@ There are some mobile and web applications based on this software to transform p
 
 ***Tags***: Computer science, Artificial Intelligence, Software, Art Computer Science, Computer Vision, Deep Learning
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Machine learning](/machine_learning), [Computer Vision](/computer_vision)
 ## Material
 * https://github.com/kesara/deepdreamer

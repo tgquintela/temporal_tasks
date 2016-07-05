@@ -10,8 +10,7 @@ The effects of taxes changes could be classified in:
 
 ***Tags***: Sociology, Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Race to the bottom](/race_to_the_bottom), [Public goods game](/public_goods_game), [Prisoner's dilemma](/prisoner's_dilemma), [Price dumping](/price_dumping), [Social dumping](/social_dumping), [Paradox of competition](/paradox_of_competition)
 ## Material
 * Parker, George. "[Berlin Accuses Vienna of ‘Fiscal Dumping’]()." Financial Times (2006): 8-9.

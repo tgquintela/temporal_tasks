@@ -16,8 +16,7 @@ It is useful to do some script-like mathematical computations as an advanced cal
 
 ***Tags***: Computer science, Computer engineering, Programming language
 
-## See also
-## See also:
+### See also
 [Python](/python), [Julia](/julia), [SAS](/sas), [R](/r), [Go (Programming language)](/go_(programming_language)), [Java](/java), [C](/c), [Fortran](/fortran), [Matlab](/matlab)
 ## Material
 * http://www.sagemath.org/

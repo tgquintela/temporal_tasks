@@ -14,8 +14,7 @@ reStructuredText is sometimes abbreviated as RST, ReST, or reST.
 
 ***Tags***: Computer engineering, Software management tools, Text format
 
-## See also
-## See also:
+### See also
 [Markdown](/markdown)
 ## Material
 * http://docutils.sourceforge.net/rst.html

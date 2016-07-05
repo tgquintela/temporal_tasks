@@ -24,8 +24,7 @@ Market penetration is a very good way to determine successfulness of the busines
 
 ***Tags***: Marketing, Business
 
-## See also
-## See also:
+### See also
 [Market segmentation](/market_segmentation), [Business Intelligence](/business_intelligence), [Market positioning](/market_positioning)
 ## Material
 * "[Market Penetration Strategy: Everything You Need to Know](http://inevitablesteps.com/marketing/market-penetration-strategy/)". Inevitable Steps. June 6, 2015

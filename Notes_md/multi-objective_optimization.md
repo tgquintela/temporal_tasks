@@ -32,8 +32,7 @@ Multi-objective optimization has been applied in many fields of science, includi
 
 ***Tags***: Computer science, Mathematics, Optimization, Economics, Operations Research
 
-## See also
-## See also:
+### See also
 [Mathematical Optimization](/mathematical_optimization), [Evolutionary algorithms](/evolutionary_algorithms), [Pareto efficiency](/pareto_efficiency)
 ## Material
 * http://demonstrations.wolfram.com/EvolutionaryMultiobjectiveOptimization/

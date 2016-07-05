@@ -8,7 +8,6 @@ Causal diagrams include causal loop diagrams, directed acyclic graphs, and Ishik
 
 ***Tags***: Causality
 
-## See also
-## See also:
+### See also
 [Causal networks](/causal_networks)
 

@@ -8,8 +8,7 @@ Zero-sum games are most often solved with the minimax theorem which is closely r
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Material
 * http://www.egwald.ca/operationsresearch/twoperson.php

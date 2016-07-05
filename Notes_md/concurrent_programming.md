@@ -29,8 +29,7 @@ Or other general purpose languages that they include this paradigm:
 
 ***Tags***: Computer engineering, Programming
 
-## See also
-## See also:
+### See also
 [Programming paradigm](/programming_paradigm)
 ## Material
 * [Concurrency is not Parallelism](http://talks.golang.org/2012/waza.slide), Waza conference Jan 11, 2012, Rob Pike (slides)

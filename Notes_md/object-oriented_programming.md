@@ -23,8 +23,7 @@ The main features of *OOP* are:
 
 ***Tags***: Computer engineering, Programming
 
-## See also
-## See also:
+### See also
 [Programming paradigm](/programming_paradigm)
 ## Books
 * Rumbaugh, James, et al. [Object-oriented modeling and design](https://www.goodreads.com/book/show/3121682-object-oriented-modeling-and-design). Vol. 199. No. 1. Englewood Cliffs, NJ: Prentice-hall, 1991.

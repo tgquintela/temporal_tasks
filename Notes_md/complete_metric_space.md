@@ -8,7 +8,6 @@ Intuitively, a space is complete if there are no "points missing" from it (insid
 
 ***Tags***: Topology, Functional analysis
 
-## See also
-## See also:
+### See also
 [Functional analysis](/functional_analysis), [Metric space](/metric_space)
 

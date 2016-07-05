@@ -10,8 +10,7 @@ Aside from being an important problem in computational theory, a proof either wa
 
 ***Tags***: Computer science, Computer Complexity, Computation theory
 
-## See also
-## See also:
+### See also
 [Computer Complexity](/computer_complexity), [Turing Machines](/turing_machines), [Theory of computation](/theory_of_computation)
 ## Material
 * http://www.claymath.org/millennium-problems

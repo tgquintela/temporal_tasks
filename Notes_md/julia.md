@@ -18,8 +18,7 @@ The main features of Julia are:
 
 ***Tags***: Computer science, Computer engineering, Programming language
 
-## See also
-## See also:
+### See also
 [Python](/python), [R](/r), [SAS](/sas), [Matlab](/matlab), [Go (Programming language)](/go_(programming_language)), [Java](/java), [C](/c), [Fortran](/fortran), [Sage](/sage)
 ## Material
 * http://julialang.org/

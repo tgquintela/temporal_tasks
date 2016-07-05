@@ -22,7 +22,6 @@ While the benefits and issues may vary between implementation, there are a few b
 
 ***Tags***: Computer engineering, Programming
 
-## See also
-## See also:
+### See also
 [Programming paradigm](/programming_paradigm), [Concurrent programming](/concurrent_programming)
 

@@ -13,8 +13,7 @@ wide variety of statistical and graphical techniques, including linear and nonli
 
 ***Tags***: Computer science, Computer engineering, Programming language
 
-## See also
-## See also:
+### See also
 [Python](/python), [Julia](/julia), [SAS](/sas), [Matlab](/matlab), [Go (Programming language)](/go_(programming_language)), [Java](/java), [C](/c), [Fortran](/fortran)
 ## Material
 * https://intellipaat.com/blog/choosing-between-sas-r-and-python-for-big-data-solution/

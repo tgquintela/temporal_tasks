@@ -15,7 +15,6 @@ that satisfies the following three axioms for all vectors ${\displaystyle x,y,z\
 
 ***Tags***: Topology, Functional analysis
 
-## See also
-## See also:
+### See also
 [Functional analysis](/functional_analysis), [Normed space](/normed_space), [Hilbert space](/hilbert_space)
 

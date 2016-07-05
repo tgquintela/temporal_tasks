@@ -17,8 +17,7 @@ Note: Study more the relation with behavioral game theory.
 
 ***Tags***: Economics, Neuroscience
 
-## See also
-## See also:
+### See also
 [Neuroeconomics](/neuroeconomics)
 ## Material
 * [The Behavioral Economics Guide](http://www.behavioraleconomics.com/)

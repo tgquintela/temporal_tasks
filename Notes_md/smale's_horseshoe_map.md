@@ -16,8 +16,7 @@ For a horseshoe map:
 
 ***Tags***: Dynamical systems, Chaos, Fractals, Differential equations
 
-## See also
-## See also:
+### See also
 [Dynamical systems](/dynamical_systems)
 ## Papers
 * Rössler, O. E. (1977). [Horseshoe-map chaos in the Lorenz equation](http://www.sciencedirect.com/science/article/pii/0375960177900299). Physics Letters A, 60(5), 392-394.

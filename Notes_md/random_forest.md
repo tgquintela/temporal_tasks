@@ -10,8 +10,7 @@ An extension of the algorithm was developed by Leo Breiman and Adele Cutler, and
 
 ***Tags***: Artificial Intelligence, Machine Learning
 
-## See also
-## See also:
+### See also
 [Machine Learning](/machine_learning), [Artificial Neural Networks](/artificial_neural_networks), [Bagging](/bagging)
 ## Papers
 * Liaw, A., & Wiener, M. (2002). [Classification and regression by randomForest](ftp://131.252.97.79/Transfer/Treg/WFRE_Articles/Liaw_02_Classification%20and%20regression%20by%20randomForest.pdf). R news, 2(3), 18-22.

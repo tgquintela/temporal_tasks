@@ -15,8 +15,7 @@ This is often used for deciding how many predictor variables to use in regressio
 
 ***Tags***: Statistics, Machine Learning
 
-## See also
-## See also:
+### See also
 [Resampling methods](/resampling_methods)
 ## Papers
 * Kohavi, R. (1995, August). [A study of cross-validation and bootstrap for accuracy estimation and model selection](https://pdfs.semanticscholar.org/0be0/d781305750b37acb35fa187febd8db67bfcc.pdf). In Ijcai (Vol. 14, No. 2, pp. 1137-1145).

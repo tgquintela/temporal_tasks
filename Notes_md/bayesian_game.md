@@ -21,8 +21,7 @@ A pure strategy is the ones which has only one strategy in the bayesian density.
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Material
 * [Game Theory Coursera's course](https://class.coursera.org/gametheory-003/lecture/109). Coursera. Retrieved 2016-06-16.

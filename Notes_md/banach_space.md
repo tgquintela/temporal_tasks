@@ -8,7 +8,6 @@ Banach spaces are named after the Polish mathematician Stefan Banach, who introd
 
 ***Tags***: Topology, Functional analysis
 
-## See also
-## See also:
+### See also
 [Functional analysis](/functional_analysis), [Normed space](/normed_space)
 

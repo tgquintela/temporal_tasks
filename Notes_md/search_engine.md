@@ -6,8 +6,7 @@
 
 ***Tags***: Computer Science, Information Retrieval
 
-## See also
-## See also:
+### See also
 [Locality Sensitive Hashing](/locality_sensitive_hashing), [Semantic Hashing](/semantic_hashing)
 ## Material
 * http://www.codeproject.com/Articles/33952/Anatomy-of-a-relevant-search-engine-part

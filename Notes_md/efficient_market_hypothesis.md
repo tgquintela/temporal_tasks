@@ -22,8 +22,7 @@ The construction of prices and the information in the market is a main issue in 
 
 ***Tags***: Economics, Measure, Financial economics
 
-## See also
-## See also:
+### See also
 [Economic Liberalism](/economic_liberalism), [Behavioral economics](/behavioral_economics), [Algorithmic game theory](/algorithmic_game_theory)
 ## Material
 * http://www.businessinsider.com/warren-buffett-on-efficient-market-hypothesis-2010-12

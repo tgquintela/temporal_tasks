@@ -58,8 +58,7 @@ It is related with different field as:
 
 ***Tags***: Computer science, Mathematics, Optimization, Economics, Operations Research
 
-## See also
-## See also:
+### See also
 [Mathematical Optimization](/mathematical_optimization)
 ## Material
 * http://20bits.com/article/introduction-to-dynamic-programming

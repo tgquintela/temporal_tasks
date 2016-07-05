@@ -8,8 +8,7 @@ allow the user build easy and quick prototypes and performing easy parallelizati
 
 ***Tags***: Computer science, Artificial Intelligence, Software
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Machine learning](/machine_learning), [Python](/python)
 ## Material
 * http://scikit-learn.org/stable/

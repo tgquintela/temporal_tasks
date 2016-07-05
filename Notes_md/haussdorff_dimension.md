@@ -17,8 +17,7 @@ The Hausdorff dimension is a successor to the simpler, but usually equivalent, b
 
 ***Tags***: Dynamical systems, Chaos, Fractals
 
-## See also
-## See also:
+### See also
 [Dynamical systems](/dynamical_systems)
 ## Papers
 * F. Hausdorff (March 1919). [Dimension und äußeres Maß](http://link.springer.com/article/10.1007/BF01457179). Mathematische Annalen 79 (1-2): 157-179.

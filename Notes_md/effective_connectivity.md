@@ -7,8 +7,7 @@ Effective brain connectivity has been studied using various techniques. Covarian
 
 ***Tags***: Neuroscience
 
-## See also
-## See also:
+### See also
 [Structural connectivity](/structural_connectivity), [Functional connectivity](/functional_connectivity), [Connectomics](/connectomics)
 ## Papers
 * Upadhyay, J., Silver, A., Knaus, T. A., Lindgren, K. A., Ducros, M., Kim, D. S., & Tager-Flusberg, H. (2008). [Effective and structural connectivity in the human auditory cortex](http://www.jneurosci.org/content/28/13/3341.long). The Journal of Neuroscience, 28(13), 3341-3349.

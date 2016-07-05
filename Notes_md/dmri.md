@@ -7,8 +7,7 @@ It allows the mapping of the diffusion process of molecules, mainly water, in bi
 
 ***Tags***: Neuroscience, Imaging technique
 
-## See also
-## See also:
+### See also
 [fMRI](/fmri), [EEG](/eeg), [PET](/pet)
 ## Papers
 * Le Bihan, D. (2003). [Looking into the functional architecture of the brain with diffusion MRI](http://www.nature.com/nrn/journal/v4/n6/full/nrn1119.html). Nature Reviews Neuroscience, 4(6), 469-480.

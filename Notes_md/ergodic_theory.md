@@ -11,8 +11,7 @@ The concepts of ergodicity and the ergodic hypothesis are central to application
 
 ***Tags***: Dynamical systems, Statistical Physics, Stochastic processes
 
-## See also
-## See also:
+### See also
 [Dynamical systems](/dynamical_systems), [Statistical Physics](/statistical_physics), [Stochastic processes](/stochastic_processes), [Ergodicity](/ergodicity), [Ergodic hypothesis](/ergodic_hypothesis)
 ## Material
 * [Cosma's note](http://bactra.org/notebooks/ergodic-theory.html)

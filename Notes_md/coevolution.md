@@ -18,8 +18,7 @@ Coevolution is primarily a biological concept, but researchers have applied it b
 
 ***Tags***: Ecology, Computer Science
 
-## See also
-## See also:
+### See also
 [Mutualistic networks](/mutualistic_networks), [Ecology](/ecology)
 ## Material
 * [Lecture on coevolution](https://cosmolearning.org/video-lectures/coevolution-6703/)

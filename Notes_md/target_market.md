@@ -14,8 +14,7 @@ It is important for a business to identify and select a target market so it can 
 
 ***Tags***: Marketing, Business
 
-## See also
-## See also:
+### See also
 [Business models](/business_models), [Market segmentation](/market_segmentation), [Business Intelligence](/business_intelligence)
 ## Papers
 * Guillaume, Johnson D; Greir, Sonya A (2011). [Targeting without Alienating: Multicultural Advertising and the Subtleties of Targeted Advertising](http://www.tandfonline.com/doi/abs/10.2501/IJA-30-2-233-258). International Journal of Advertising 2 (30): 233-258.

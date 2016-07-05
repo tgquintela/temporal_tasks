@@ -7,8 +7,7 @@ It is easy to learn and easy to use but it has low flexibility and its complex f
 
 ***Tags***: Computer science, Artificial Intelligence, Software, Deep Learning
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Machine learning](/machine_learning), [Python](/python)
 ## Material
 * http://lasagne.readthedocs.io/en/latest/

@@ -14,8 +14,7 @@ The permutation tests assume you compute the null hypothesis by computing all th
 
 ***Tags***: Statistics
 
-## See also
-## See also:
+### See also
 [Resampling methods](/resampling_methods)
 ## Papers
 * Anderson, M. J. (2001). [Permutation tests for univariate or multivariate analysis of variance and regression](http://ubio.bioinfo.cnio.es/Cursos/CEU_MDA07_practicals/Further%2520reading/Papers%2520on%2520ecological%2520statistics/Permutation%2520tests%2520in%2520ecological%2520statistics%2520Anderson2001.pdf). Canadian journal of fisheries and aquatic sciences, 58(3), 626-639.

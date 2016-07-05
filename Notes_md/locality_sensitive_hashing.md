@@ -6,8 +6,7 @@ Locality-sensitive hashing (LSH) reduces the dimensionality of high-dimensional 
 
 ***Tags***: Computer Science, Information Retrieval
 
-## See also
-## See also:
+### See also
 [Semantic Hashing](/semantic_hashing)
 ## Material
 * [Python Locality Sensitive Hashing library that optionally supports persistence via redis](https://github.com/simonemainardi/LSHash)

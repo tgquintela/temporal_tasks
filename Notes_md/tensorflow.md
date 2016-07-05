@@ -10,8 +10,7 @@ It is the reference now in the use of Deep Lerning, both with Theano.
 
 ***Tags***: Computer science, Artificial Intelligence, Software, Deep Learning
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Machine learning](/machine_learning)
 ## Material
 * https://www.tensorflow.org/

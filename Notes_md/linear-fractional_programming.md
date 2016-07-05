@@ -14,7 +14,6 @@ There is the possiblity to transform a linear-fractional optimization problem to
 
 ***Tags***: Computer science, Mathematics, Optimization, Economics, Operations Research
 
-## See also
-## See also:
+### See also
 [Mathematical Optimization](/mathematical_optimization), [Linear programming](/linear_programming)
 

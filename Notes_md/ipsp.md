@@ -10,7 +10,6 @@ In general, a postsynaptic potential is dependent on the type and combination of
 
 ***Tags***: Neuroscience
 
-## See also
-## See also:
+### See also
 [EPSP](/epsp), [Action potentials](/action_potentials)
 

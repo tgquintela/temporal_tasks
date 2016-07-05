@@ -8,8 +8,7 @@ Sometimes, structural connectivity is tried to infer from functional connectivit
 
 ***Tags***: Neuroscience
 
-## See also
-## See also:
+### See also
 [Functional connectivity](/functional_connectivity), [Effective connectivity](/effective_connectivity), [Connectomics](/connectomics)
 ## Papers
 * Honey, C. J., Sporns, O., Cammoun, L., Gigandet, X., Thiran, J. P., Meuli, R., & Hagmann, P. (2009). [Predicting human resting-state functional connectivity from structural connectivity](http://www.pnas.org/content/106/6/2035.full). Proceedings of the National Academy of Sciences, 106(6), 2035-2040.

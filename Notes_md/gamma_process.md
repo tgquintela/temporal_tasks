@@ -17,7 +17,6 @@ The main properties are:
 
 ***Tags***: Stochastic processes
 
-## See also
-## See also:
+### See also
 [Wiener process](/wiener_process), [Levy process](/levy_process), [Markov process](/markov_process), [Poisson process](/poisson_process)
 

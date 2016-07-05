@@ -11,8 +11,7 @@ An information retrieval technique using latent semantic structure was patented 
 
 ***Tags***: Computer Science, Information Retrieval, Natural Language Processing
 
-## See also
-## See also:
+### See also
 [Latent Dirichlet Allocation](/latent_dirichlet_allocation)
 ## Material
 * http://radimrehurek.com/gensim/

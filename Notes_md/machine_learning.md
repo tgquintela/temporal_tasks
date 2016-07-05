@@ -6,8 +6,7 @@
 
 ***Tags***: Computer science, Data Analysis, Artificial Intelligence
 
-## See also
-## See also:
+### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Computer vision](/computer_vision), [Artificial Intelligence](/artificial_intelligence), [Spatial Data Analysis](/spatial_data_analysis), [Data Analysis](/data_analysis)
 ## Books
 * Mitchell, Tom M. (1997) [Machine Learning](https://www.goodreads.com/book/show/213030.Machine_Learning). McGraw-Hill

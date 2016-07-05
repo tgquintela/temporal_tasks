@@ -13,8 +13,7 @@ Vi and Vim are especially useful for command-line extension use.
 
 ***Tags***: Computer engineering, Software management tools, Text editor
 
-## See also
-## See also:
+### See also
 [emacs](/emacs)
 ## Material
 * http://www.openvim.com/tutorial.html

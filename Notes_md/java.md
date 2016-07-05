@@ -14,8 +14,7 @@ Java became the main programming language paradigm of object-oriented programmin
 
 ***Tags***: Computer science, Computer engineering, Programming language
 
-## See also
-## See also:
+### See also
 [Python](/python), [Julia](/julia), [SAS](/sas), [Matlab](/matlab), [Go (Programming language)](/go_(programming_language)), [R](/r), [C](/c), [Fortran](/fortran)
 ## Material
 * https://en.wikibooks.org/wiki/Java_Programming

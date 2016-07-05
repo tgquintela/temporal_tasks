@@ -12,8 +12,7 @@ The rate of separation can be different for different orientations of initial se
 
 ***Tags***: Dynamical systems, Chaos, Fractals, Differential equations
 
-## See also
-## See also:
+### See also
 [Dynamical systems](/dynamical_systems)
 ## Papers
 * Zeng, X., Eykholt, R., & Pielke, R. A. (1991). [Estimating the Lyapunov-exponent spectrum from short time series of low precision](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.66.3229). Physical Review Letters, 66(25), 3229.

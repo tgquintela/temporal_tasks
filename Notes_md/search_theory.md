@@ -11,8 +11,7 @@ Search theory is a theory which is strongly related with economics. Is a theory 
 
 ***Tags***: Computer science, Mathematics, Optimization, Economics, Operations Research
 
-## See also
-## See also:
+### See also
 [Operations Research](/operations_research)
 ## Material
 * http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2010/press.pdf

@@ -10,8 +10,7 @@ Go is a highly complex game due to the huge amount of possibilities that its pos
 
 ***Tags***: Computer science, Artificial Intelligence, Algorithm, Software
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence)
 ## Material
 * http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/why-alphago-is-not-ai

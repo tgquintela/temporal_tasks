@@ -39,8 +39,7 @@ The following is an incomplete list of types of automata:
 
 ***Tags***: Computer science, Artificial Intelligence, Optimization
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Mathematical optimization](/mathematical_optimization)
 ## Material
 * http://scanftree.com/automata/

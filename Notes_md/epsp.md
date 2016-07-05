@@ -10,7 +10,6 @@ EPSPs, like IPSPs, are graded (i.e. they have an additive effect). When multiple
 
 ***Tags***: Neuroscience
 
-## See also
-## See also:
+### See also
 [IPSP](/ipsp), [Action potentials](/action_potentials)
 

@@ -17,8 +17,7 @@ A direct consequence of this theorem is that chaotic behaviour can ***only*** ar
 
 ***Tags***: Dynamical systems, Chaos, Fractals, Differential equations
 
-## See also
-## See also:
+### See also
 [Dynamical systems](/dynamical_systems)
 ## Papers
 * Bendixson, I. (1901). [Sur les courbes définies par des équations différentielles](http://www.springerlink.com/index/FK25752882643H24.pdf). Acta Mathematica, 24(1), 1-88.

@@ -13,8 +13,7 @@ It is usually applied by *market segmentation*, *target marketing* and the use o
 
 ***Tags***: Marketing, Business, Artificial intelligence
 
-## See also
-## See also:
+### See also
 [Market segmentation](/market_segmentation), [Target market](/target_market)
 ## Papers
 * Bart, Baesens; Viaene, Stijn; Van den Poel, Dirk; Vanthienen, Jan & Dedene, Guido.(2002), [Bayesian Neural Network Learning for Repeat Purchase Modelling in Direct Marketing](http://econpapers.repec.org/paper/rugrugwps/02_2F154.htm), European Journal of Operational Research, 138 (1), 191-211.

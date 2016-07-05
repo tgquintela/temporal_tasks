@@ -16,8 +16,7 @@ In linguistics, some authors use the term phrase structure grammar to refer to c
 
 ***Tags***: Computer science, Artificial Intelligence, Computation theory
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Computer Complexity](/computer_complexity), [Turing Machines](/turing_machines), [Automata theory](/automata_theory), [Theory of computation](/theory_of_computation)
 ## Papers
 * Chomsky, Noam (Sep 1956), [Three models for the description of language](http://www.chomsky.info/articles/195609--.pdf), Information Theory, IEEE Transactions 2 (3): 113–124.

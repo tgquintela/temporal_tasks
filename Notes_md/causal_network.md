@@ -6,7 +6,6 @@ A causal network is a *Bayesian network* with an explicit requirement that the r
 
 ***Tags***: Causality
 
-## See also
-## See also:
+### See also
 [Causal diagram](/causal_diagram)
 

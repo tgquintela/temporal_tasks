@@ -20,8 +20,7 @@ The Hadoop framework itself is mostly written in the Java programming language, 
 
 ***Tags***: Computer science, Data Analysis, Big Data, Hadoop ecosystem
 
-## See also
-## See also:
+### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Computer vision](/computer_vision), [Machine learning](/machine_learning), [Artificial Intelligence](/artificial_intelligence), [Spatial Data Analysis](/spatial_data_analysis), [Data Analysis](/data_analysis)
 ## Material
 * http://hadoop.apache.org/

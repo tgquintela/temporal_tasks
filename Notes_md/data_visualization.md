@@ -47,8 +47,7 @@ The main static visualization are:
 
 ***Tags***: Data science
 
-## See also
-## See also:
+### See also
 [Data extraction](/data_extraction), [Data munging](/data_munging)
 ## Material
 * [Big Data Visualization: Review of the 20 Best Tools](http://inspire.blufra.me/big-data-visualization-review-of-the-20-best-tools/)

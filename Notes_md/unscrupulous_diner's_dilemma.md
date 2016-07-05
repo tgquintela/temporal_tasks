@@ -6,8 +6,7 @@ The unscrupulous diner's dilemma (or just diner's dilemma) is an n-player prison
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Tragedy of the commons](/tragedy_of_the_commons), [Free rider problem](/free_rider_problem), [Greedy algorithms](/greedy_algorithms), [Somebody else's problem](/somebody_else's_problem), [Fiscal dumping](/fiscal_dumping)
 ## Material
 * Glance, Natalie S.; Huberman, Bernardo A. (March 1994). [The dynamics of social dilemmas](). Scientific American.

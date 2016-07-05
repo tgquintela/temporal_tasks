@@ -12,7 +12,6 @@ Linear operators on a Hilbert space are likewise fairly concrete objects: in goo
 
 ***Tags***: Topology, Functional analysis
 
-## See also
-## See also:
+### See also
 [Functional analysis](/functional_analysis), [Inner-product space](/inner-product_space), [Quantum physics](/quantum_physics), [Optimization](/optimization)
 

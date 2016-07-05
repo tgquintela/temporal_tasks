@@ -19,8 +19,7 @@ The jackknife is a linear approximation of the bootstrap.
 
 ***Tags***: Statistics
 
-## See also
-## See also:
+### See also
 [Statistical testing](/statistical_testing), [Resampling methods](/resampling_methods), [Bootstrapping](/bootstrapping)
 ## Papers
 * Jones, H.L. (1974). [Jackknife estimation of functions of stratum means](http://biomet.oxfordjournals.org/content/61/2/343.short). Biometrika 61 (2): 343-348.

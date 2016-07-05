@@ -11,8 +11,7 @@ I have my serious doubts of the real apportation of this subfield into the field
 
 ***Tags***: Ecology
 
-## See also
-## See also:
+### See also
 [Spatial Ecology](/spatial_ecology), [Ecology](/ecology)
 ## Books
 * Brown, J.H. (1995). [Macroecology](https://www.goodreads.com/book/show/1922944.Macroecology). University of Chicago Press.

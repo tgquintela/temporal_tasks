@@ -21,8 +21,7 @@ A theoretical upper bound on the speed-up of a single program as a result of par
 
 ***Tags***: Computer engineering, Programming
 
-## See also
-## See also:
+### See also
 [Programming paradigm](/programming_paradigm), [Concurrent programming](/concurrent_programming), [Amdahl's law](/amdahl's_law)
 ## Books
 * Hwang, Kai (1992). [Advanced Computer Architecture: Parallelism, Scalability, Programmability](https://www.goodreads.com/book/show/688409.Advanced_Computer_Architecture). McGraw-Hill Science/Engineering/Math

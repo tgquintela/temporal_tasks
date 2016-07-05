@@ -9,8 +9,7 @@ It has interesting tools for verizable computation as well as easy parallelizati
 
 ***Tags***: Computer science, Computer engineering, Programming language
 
-## See also
-## See also:
+### See also
 [Python](/python), [Julia](/julia), [SAS](/sas), [R](/r), [Go (Programming language)](/go_(programming_language)), [Java](/java), [C](/c), [Fortran](/fortran), [Sage](/sage)
 ## Material
 * http://www.tutorialspoint.com/matlab/

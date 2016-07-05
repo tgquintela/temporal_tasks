@@ -10,8 +10,7 @@ The advantage of FDG-PET for these uses is its much wider availability. PET imag
 
 ***Tags***: Neuroscience, Imaging technique
 
-## See also
-## See also:
+### See also
 [fMRI](/fmri), [EEG](/eeg), [dMRI](/dmri)
 ## Papers
 * Catana, Ciprian, et al. (2010). [Toward implementing an MRI-based PET attenuation-correction method for neurologic studies on the MR-PET brain prototype](http://jnm.snmjournals.org/content/51/9/1431.full). Journal of Nuclear Medicine, 51(9), 1431-1438.

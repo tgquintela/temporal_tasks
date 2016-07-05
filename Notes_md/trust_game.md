@@ -6,8 +6,7 @@ The trust game is similar to the *dictator game*, but with an added first step. 
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Ultimatum game](/ultimatum_game), [Prisoner's dilemma](/prisoner's_dilemma), [Neuroeconomics](/neuroeconomics), [Public goods game](/public_goods_game), [Dictator game](/dictator_game)
 ## Papers
 * Cesarini, David; Christopher T. Dawes; James H. Fowler; Magnus Johannesson; Paul Lichtenstein; Björn Wallace (11 March 2008). [Heritability of cooperative behavior in the trust game](http://jhfowler.ucsd.edu/heritability_of_cooperative_behavior.pdf). Proceedings of the National Academy of Sciences 105 (10): 3721-3726

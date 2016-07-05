@@ -15,8 +15,7 @@ The original Markdown implementation interprets constructs like my_long_variable
 
 ***Tags***: Computer engineering, Software management tools, Text format
 
-## See also
-## See also:
+### See also
 [reStructuredText](/restructuredtext)
 ## Material
 * [Original Markdown](http://daringfireball.net/projects/markdown/)

@@ -8,8 +8,7 @@ To contrast, in a process that is not a martingale, it may still be the case tha
 
 ***Tags***: Probability theory, Stochastic processes, Time-series, Game Theory
 
-## See also
-## See also:
+### See also
 [Wiener process](/wiener_process), [Markov Process](/markov_process)
 ## Papers
 * Siminelakis, Paris (2010). [Martingales and Stopping Times: Use of martingales in obtaining bounds and analyzing algorithms](http://www.corelab.ece.ntua.gr/courses/rand-alg/slides/Martingales-Stopping_Times.pdf). University of Athens.

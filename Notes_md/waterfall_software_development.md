@@ -20,8 +20,7 @@ and where the software engineers can make difference with the rest of the casual
 
 ***Tags***: Programming, Programming paradigms, Software development
 
-## See also
-## See also:
+### See also
 [Agile software development](/agile_software_development)
 ## Material
 * http://www.oxagile.com/company/blog/the-waterfall-model/

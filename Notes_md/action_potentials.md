@@ -14,8 +14,7 @@ In animal cells, there are two primary types of action potentials:
 
 ***Tags***: Neuroscience
 
-## See also
-## See also:
+### See also
 [EPSP](/epsp), [IPSP](/ipsp)
 ## Material
 * https://www.youtube.com/watch?v=OZG8M_ldA1M

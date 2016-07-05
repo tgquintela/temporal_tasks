@@ -14,8 +14,7 @@ When do you have to use Fortran:
 
 ***Tags***: Computer science, Computer engineering, Programming language
 
-## See also
-## See also:
+### See also
 [Python](/python), [Julia](/julia), [SAS](/sas), [Matlab](/matlab), [Go (Programming language)](/go_(programming_language)), [Java](/java), [R](/r), [C](/c), [Sage](/sage)
 ## Material
 * https://en.wikibooks.org/wiki/Fortran

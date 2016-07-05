@@ -23,8 +23,7 @@ Basic tools of Golang:
 
 ***Tags***: Computer science, Computer engineering, Programming language
 
-## See also
-## See also:
+### See also
 [Python](/python), [Julia](/julia), [SAS](/sas), [Matlab](/matlab), [R](/r), [Java](/java), [C](/c), [Fortran](/fortran), [Sage](/sage)
 ## Material
 * http://www.golang-book.com/

@@ -8,8 +8,7 @@ Hausdorff spaces are named after Felix Hausdorff, one of the founders of topolog
 
 ***Tags***: Topology, Functional analysis
 
-## See also
-## See also:
+### See also
 [Functional analysis](/functional_analysis)
 ## Books
 * Hazewinkel, Michiel, ed. (2001), [Hausdorff space](), Encyclopedia of Mathematics, Springer.

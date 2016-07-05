@@ -14,8 +14,7 @@ Another approach to economic freedom extends the welfare economics study of indi
 
 ***Tags***: Economics
 
-## See also
-## See also:
+### See also
 [Capitalism](/capitalism), [Economic liberalism](/economic_liberalism)
 ## Papers
 * De Haan, J., & Sturm, J. E. (2000). [On the relationship between economic freedom and economic growth](http://down.cenet.org.cn/upfile/34/20051124194831130.pdf). European Journal of Political Economy, 16(2), 215-241.

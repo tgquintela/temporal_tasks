@@ -11,7 +11,6 @@ The common errors are:
 
 ***Tags***: Statistics
 
-## See also
-## See also:
+### See also
 [Resampling methods](/resampling_methods)
 

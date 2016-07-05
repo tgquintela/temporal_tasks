@@ -21,7 +21,6 @@ wheren the function d {\displaystyle d} d is also called distance function or si
 
 ***Tags***: Topology, Functional analysis
 
-## See also
-## See also:
+### See also
 [Functional analysis](/functional_analysis), [Normal space](/normal_space), [Complete metric space](/complete_metric_space)
 

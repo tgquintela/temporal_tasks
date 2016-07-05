@@ -6,8 +6,7 @@
 
 ***Tags***: Computer science, Data Analysis
 
-## See also
-## See also:
+### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Computer vision](/computer_vision), [Machine learning](/machine_learning), [Artificial Intelligence](/artificial_intelligence), [Spatial Data Analysis](/spatial_data_analysis)
 ## Books
 * Gelman, Andrew; Carlin, John B.; Stern, Hal S.; Rubin, Donald B. (2003) [Bayesian Data Analysis](https://www.goodreads.com/book/show/619590.Bayesian_Data_Analysis). 2nd Edition CRC Press

@@ -47,8 +47,7 @@ Other common methods:
 
 ***Tags***: Statistics
 
-## See also
-## See also:
+### See also
 [Resampling methods](/resampling_methods)
 ## Papers
 * Altmann, J. (1974). [Observational study of behavior: sampling methods](http://www.uwyo.edu/animalcognition/altmann1974.pdf). Behaviour, 49(3), 227-266.

@@ -12,8 +12,7 @@ Granger defined the causality relationship based on two principles:
 
 ***Tags***: Causality, Time-Series
 
-## See also
-## See also:
+### See also
 [Causality](/causality), [Transfer entropy](/transfer_entropy)
 ## Papers
 * Granger, C. W. (1988). [Some recent development in a concept of causality](). Journal of econometrics, 39(1), 199-211.

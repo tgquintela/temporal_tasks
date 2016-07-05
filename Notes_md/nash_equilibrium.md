@@ -6,8 +6,7 @@ Nash equilibrium is a solution concept of a non-cooperative game involving two o
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Papers
 * Nash, John (1950) [Equilibrium points in n-person games](http://www.calpoly.edu/~aamendes/GTweb/Nash.pdf). Proceedings of the National Academy of Sciences 36(1):48-49.

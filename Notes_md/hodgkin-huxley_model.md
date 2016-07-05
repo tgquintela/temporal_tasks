@@ -12,8 +12,7 @@ There are several of improvements and extensions of the Hodgkin-Huxley model con
 
 ***Tags***: Neuroscience, 
 
-## See also
-## See also:
+### See also
 [Dynamical systems](/dynamical_systems), [Differential equations](/differential_equations), [Integrate-and-fire models](/integrate-and-fire_models)
 ## Material
 * [ModelDB](https://senselab.med.yale.edu/ModelDB/)

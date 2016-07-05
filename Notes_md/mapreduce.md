@@ -19,8 +19,7 @@ MapReduce could be not usable in some parallel solvable problems but for most of
 
 ***Tags***: Computer science, Data Analysis
 
-## See also
-## See also:
+### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Computer vision](/computer_vision), [Machine learning](/machine_learning), [Artificial Intelligence](/artificial_intelligence), [Spatial Data Analysis](/spatial_data_analysis), [Data Analysis](/data_analysis)
 ## Books
 * Miner, Donald; Shook, Adam (2016). [MapReduce Design Patterns: Building Effective Algorithms and Analytics for Hadoop and Other Systems](https://www.goodreads.com/book/show/14514285-mapreduce-design-patterns). O'Reilly Media

@@ -8,8 +8,7 @@ In game theory it is also used as an algorithm to evaluate and search better opt
 
 ***Tags***: Game Theory, Graph, Algorithm
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory)
 ## Papers
 * Edwards, D.J.; Hart, T.P. (4 December 1961 to 28 October 1963). [The Alpha-beta Heuristic](http://dspace.mit.edu/bitstream/handle/1721.1/6098/AIM-030.pdf?sequence=2). (AIM-030) Massachusetts Institute of Technology.

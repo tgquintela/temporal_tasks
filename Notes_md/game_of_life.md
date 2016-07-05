@@ -15,8 +15,7 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 ***Tags***: Computer science, Artificial Intelligence, Computation theory
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence), [Computer Complexity](/computer_complexity), [Turing Machines](/turing_machines), [Automata theory](/automata_theory), [Theory of computation](/theory_of_computation)
 ## Material
 * [Game of life news](http://pentadecathlon.com/lifeNews/index.php)

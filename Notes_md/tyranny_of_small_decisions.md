@@ -8,8 +8,7 @@ A classic example of the tyranny of small decisions is the tragedy of the common
 
 ***Tags***: Game Theory
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Free rider problem](/free_rider_problem), [Greedy algorithm](/greedy_algorithm)
 ## Papers
 * Kahn, Alfred E. (1966) [The tyranny of small decisions: market failures, imperfections, and the limits of economics](http://www3.interscience.wiley.com/journal/119726548/abstract) Kvklos, 19:23-47.

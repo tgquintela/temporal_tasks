@@ -6,8 +6,7 @@ The race to the bottom is a socio-economic phrase which is used to describe gove
 
 ***Tags***: Game Theory, Sociology, Economy
 
-## See also
-## See also:
+### See also
 [Game Theory](/game_theory), [Fiscal dumping](/fiscal_dumping)
 ## Material
 * "[Racing to the bottom](http://www.economist.com/blogs/freeexchange/2013/11/labour-standards)" in The Economist

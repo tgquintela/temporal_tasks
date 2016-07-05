@@ -17,8 +17,7 @@ The complexity of executing an algorithm with a human-assisted Turing machine is
 
 ***Tags***: Computer science, Artificial Intelligence, Computer complexity
 
-## See also
-## See also:
+### See also
 [Artificial Intelligence](/artificial_intelligence)
 ## Material
 * http://www.i-programmer.info/babbages-bag/297-artificial-intelligence.html

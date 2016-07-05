@@ -8,8 +8,7 @@ The first consistent microscopic derivation of the Fokker-Planck equation in the
 
 ***Tags***: Dynamical systems, Statistical Physics, Stochastic processes
 
-## See also
-## See also:
+### See also
 [Dynamical systems](/dynamical_systems), [Statistical Physics](/statistical_physics), [Stochastic processes](/stochastic_processes)
 ## Papers
 * Risken, H. (1984). [Fokker-planck equation. In The Fokker-Planck Equation](http://link.springer.com/chapter/10.1007/978-3-642-96807-5_4). Springer Berlin Heidelberg, 63-95.

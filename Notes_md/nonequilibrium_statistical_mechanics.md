@@ -6,8 +6,7 @@ Statistical mechanics is a branch of theoretical physics that studies, using pro
 
 ***Tags***: 
 
-## See also
-## See also:
+### See also
 [Irreversible processes](/irreversible_processes)
 ## Books
 * Nicolis, G., & Prigogine, I. (1977). [Self-organization in nonequilibrium systems](https://www.goodreads.com/book/show/2709204-self-organization-in-nonequilibrium-systems) (Vol. 191977). Wiley, New York.

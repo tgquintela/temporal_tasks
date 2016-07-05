@@ -11,8 +11,7 @@ Different integrate-and-fire model families:
 
 ***Tags***: Neuroscience, 
 
-## See also
-## See also:
+### See also
 [Stochastic processes](/stochastic_processes), [Differential equations](/differential_equations), [Hodgkin-Huxley model](/hodgkin-huxley_model)
 ## Material
 * http://www.nathanshepard.net/documents/Integrate_and_Fire_Model.pdf
