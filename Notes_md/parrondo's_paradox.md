@@ -17,7 +17,7 @@ Parrondo's paradox is used extensively in game theory, and its application in en
 
 ***Tags***: Game Theory, Stochastic processes
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Portfolio theory](/portfolio_theory), [Stock market](/stock_market)
 ## Material
 * https://scholar.google.com.au/citations?hl=en&user=aeNdbrUAAAAJ

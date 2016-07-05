@@ -28,7 +28,7 @@ The common randomized search methods are:
 
 ***Tags***: Computer science, Mathematics, Optimization, Economics, Operations Research
 
-### See also
+#### See also
 [Mathematical Optimization](/mathematical_optimization)
 ## Papers
 * Neely, Michael J. [Stochastic network optimization with application to communication and queueing systems](). Synthesis Lectures on Communication Networks 3.1 (2010): 1-211.

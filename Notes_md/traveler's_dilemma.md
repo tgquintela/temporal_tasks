@@ -13,7 +13,7 @@ It is a symmetric game in which we have an optimum choice of $100 and a Nash equ
 
 ***Tags***: Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Prisoner's dilemma](/prisoner's_dilemma), [Social dilemma](/social_dilemma)
 ## Material
 * Kaushik Basu,[The Traveler's Dilemma](http://www.scientificamerican.com/article/the-travelers-dilemma/); Scientific American Magazine, June 2007

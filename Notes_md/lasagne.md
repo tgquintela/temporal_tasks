@@ -6,7 +6,7 @@ Lasagne is a lightweight library to build and train neural networks in Theano. I
 
 ***Tags***: Computer science, Artificial Intelligence, Software, Deep Learning
 
-### See also
+#### See also
 [Artificial Intelligence](/artificial_intelligence), [Machine learning](/machine_learning), [Python](/python)
 ## Material
 * http://lasagne.readthedocs.io/en/latest/

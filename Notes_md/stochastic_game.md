@@ -16,7 +16,7 @@ Stochastic games generalize both Markov decision processes and repeated games. I
 
 ***Tags***: Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory)
 ## Material
 * [Thesis about algorithms of stochastic games](http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1062&context=etd)

@@ -37,7 +37,7 @@ Typical questions addressed by a business plan for a start up venture:
 
 ***Tags***: Marketing, Business
 
-### See also
+#### See also
 [Market segmentation](/market_segmentation), [Business Intelligence](/business_intelligence), [Business models](/business_models)
 ## Material
 * [Small business administration](http://www.smallbusinessnotes.com/starting-a-business/small-business-administration-sba-business-plan-outline.html)

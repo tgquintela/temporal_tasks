@@ -8,7 +8,7 @@ Neuromarketing, marketing designed on the foundation of neuroscience, is the mos
 
 ***Tags***: Marketing, Neuroscience
 
-### See also
+#### See also
 [Marketing intelligence](/marketing_intelligence)
 ## Papers
 * Karmarkar, Uma R. (2011). [Note on Neuromarketing](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1998183). Harvard Business School (9-512-031).

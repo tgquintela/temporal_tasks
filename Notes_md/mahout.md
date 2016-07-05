@@ -10,7 +10,7 @@ Starting with the release 0.10.0, the project shifts its focus to building backe
 
 ***Tags***: Computer science, Data Analysis, Big Data, Hadoop ecosystem
 
-### See also
+#### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Computer vision](/computer_vision), [Machine learning](/machine_learning), [Artificial Intelligence](/artificial_intelligence), [Spatial Data Analysis](/spatial_data_analysis), [Data Analysis](/data_analysis)
 ## Material
 * http://mahout.apache.org/

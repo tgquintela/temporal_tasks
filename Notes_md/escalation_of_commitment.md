@@ -14,7 +14,7 @@ In game theory is a non rational behavior that can challenge rational models. Th
 
 ***Tags***: Game Theory, Behavioral science, Decision theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Decision theory](/decision_theory), [Loss aversion](/loss_aversion)
 ## Papers
 * Brockner, Joel (1992). [The escalation of commitment to a failing course of action: toward theoretical progress](http://wayback.archive.org/web/20160311233821/http://www.gwern.net/docs/sunkcosts/1992-brockner.pdf). Academy of Management Review 17 (1): 39-61.

@@ -26,7 +26,7 @@ Different models of computation have the ability to do different tasks. One way 
 
 ***Tags***: Computer science, Artificial Intelligence
 
-### See also
+#### See also
 [Artificial Intelligence](/artificial_intelligence), [Computer Complexity](/computer_complexity), [Church-Turing thesis](/church-turing_thesis), [Turing Machines](/turing_machines)
 ## Papers
 * Alan Turing (1937). [On computable numbers, with an application to the Entscheidungsproblem](https://people.cs.umass.edu/~immerman/cs601/TuringPaper1936.pdf). Proceedings of the London Mathematical Society (IEEE) 2 (42): 230-265

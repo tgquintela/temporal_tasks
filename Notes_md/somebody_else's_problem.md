@@ -9,7 +9,7 @@ Somebody Else's Problem has been used to capture public attention on matters tha
 
 ***Tags***: Game Theory, Sociology
 
-### See also
+#### See also
 [Game Theory](/game_theory)
 ## Material
 * https://www.goodreads.com/quotes/691174-the-somebody-else-s-problem-field-is-much-simpler-and-more

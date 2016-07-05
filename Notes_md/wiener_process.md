@@ -33,7 +33,7 @@ Basic properties:
 
 ***Tags***: Stochastic processes
 
-### See also
+#### See also
 [Markov process](/markov_process), [Levy process](/levy_process)
 ## Papers
 * Shlesinger, Michael F.; Klafter, Joseph; Zumofen, Gert (December 1999). [Above, below and beyond Brownian motion](http://caos.fs.usb.ve/~srojas/Teaching/USB/MC_Intro/MC_readings_a/MC_a4_brownian_1.pdf). American Journal of Physics 67 (12): 1253-1259.

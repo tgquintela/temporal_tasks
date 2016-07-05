@@ -12,7 +12,7 @@ The final product quality (low or high) is not dependent on the price elasticity
 
 ***Tags***: Marketing, Business
 
-### See also
+#### See also
 [Business models](/business_models), [Market segmentation](/market_segmentation), [Business Intelligence](/business_intelligence)
 ## Material
 * Britten, Fleur (2006-09-29). "[New meaning for the term 'niche market'](http://www.nytimes.com/2006/09/29/style/29iht-Rshop.html?pagewanted=all)". NY Times.

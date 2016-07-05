@@ -13,7 +13,7 @@ Critics say that,  however hings are not well-isolated from the rest of the worl
 
 ***Tags***: Statistical physics
 
-### See also
+#### See also
 [Nonequilibrium Statistical Mechanics](/nonequilibrium_statistical_mechanics), [Self-organization](/self-organization), [Irreversible Thermodynamics](/irreversible_thermodynamics)
 ## Papers
 * Kugler, P. N., Kelso, J. S., & Turvey, M. T. (1980). [On the concept of coordinative structures as dissipative structures: I. Theoretical lines of convergence](http://web.haskins.yale.edu/Reprints/HL0297.pdf). Tutorials in motor behavior, 3, 3-47.

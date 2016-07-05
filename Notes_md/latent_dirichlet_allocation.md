@@ -25,7 +25,7 @@ LDA is an example of a topic model and was first presented as a graphical model 
 
 ***Tags***: Computer Science, Information Retrieval, Natural Language Processing
 
-### See also
+#### See also
 [Latent Semantic Analysis](/latent_semantic_analysis)
 ## Material
 * http://radimrehurek.com/gensim/

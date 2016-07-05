@@ -8,7 +8,7 @@ SCM draws heavily from the areas of industrial engineering, systems engineering,
 
 ***Tags***: Computer science, Mathematics, Optimization, Operations Research
 
-### See also
+#### See also
 [Operations Research](/operations_research)
 ## Material
 * http://ocw.mit.edu/courses/engineering-systems-division/esd-273j-logistics-and-supply-chain-management-fall-2009/download-course-materials/

@@ -28,7 +28,7 @@ The direct applications of computer vision includes:
 
 ***Tags***: Computer science, Data Analysis, Artificial Intelligence
 
-### See also
+#### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Computer vision](/computer_vision), [Artificial Intelligence](/artificial_intelligence), [Data Analysis](/data_analysis), [Machine Learning](/machine_learning)
 ## Material
 * http://opencv.org/

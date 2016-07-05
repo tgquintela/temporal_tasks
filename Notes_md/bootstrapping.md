@@ -6,7 +6,7 @@ Bootstrapping can refer to any test or metric that relies on *random sampling wi
 
 ***Tags***: Statistics
 
-### See also
+#### See also
 [Statistical testing](/statistical_testing), [Resampling methods](/resampling_methods), [Jackknife](/jackknife)
 ## Material
 * [Bootstrap tutorial](http://people.revoledu.com/kardi/tutorial/Bootstrap/index.html)

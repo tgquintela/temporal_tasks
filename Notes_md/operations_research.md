@@ -17,7 +17,7 @@ Most important problems related with Operations Research:
 
 ***Tags***: Computer science, Mathematics, Optimization
 
-### See also
+#### See also
 [Computational intelligence](/computational_intelligence), [Mathematical optimization](/mathematical_optimization), [Machine learning](/machine_learning), [Artificial Intelligence](/artificial_intelligence)
 ## Material
 * https://www.me.utexas.edu/~jensen/ORMM/instructor.html

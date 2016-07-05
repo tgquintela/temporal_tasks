@@ -11,7 +11,7 @@ Marketers use segmentation and positioning to divide the market and choose the s
 
 ***Tags***: Marketing, Business
 
-### See also
+#### See also
 [Business models](/business_models), [Market segmentation](/market_segmentation), [Business Intelligence](/business_intelligence), [Neuromarketing](/neuromarketing)
 ## Papers
 * Kotler, P. (1972). [A generic concept of marketing](http://www1.eafit.edu.co/jbaby/agenericconcept.pdf). The Journal of Marketing, 46-54.

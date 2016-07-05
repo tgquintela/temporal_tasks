@@ -8,6 +8,6 @@ A completely normal space or a hereditarily normal space is a topological space 
 
 ***Tags***: Topology, Functional analysis
 
-### See also
+#### See also
 [Functional analysis](/functional_analysis)
 

@@ -6,6 +6,6 @@ A topological space may be defined as a set of points, along with a set of neigh
 
 ***Tags***: Topology, Functional analysis
 
-### See also
+#### See also
 [Functional analysis](/functional_analysis)
 

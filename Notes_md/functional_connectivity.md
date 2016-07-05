@@ -7,7 +7,7 @@ The studies of patterns of functional connectivity (based on coherence or correl
 
 ***Tags***: Neuroscience
 
-### See also
+#### See also
 [Structural connectivity](/structural_connectivity), [Effective connectivity](/effective_connectivity), [Connectomics](/connectomics)
 ## Papers
 * Friston, K. J. (1994). [Functional and effective connectivity in neuroimaging: a synthesis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.516.9874&rep=rep1&type=pdf). Human brain mapping, 2(1‐2), 56-78.

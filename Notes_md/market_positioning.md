@@ -20,7 +20,7 @@ Enis & Cox explain to us that word positioning was introduced by an advertising 
 
 ***Tags***: Marketing, Business
 
-### See also
+#### See also
 [Market segmentation](/market_segmentation), [Business Intelligence](/business_intelligence), [Market penetration](/market_penetration)
 ## Material
 * [Positioning book review](http://www.smevalueadvisors.com/wp-content/uploads/2014/01/Positioning-book-review.pdf)

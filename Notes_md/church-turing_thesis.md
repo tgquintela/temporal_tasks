@@ -15,7 +15,7 @@ Since its inception, variations on the original thesis have arisen, including st
 
 ***Tags***: Computer science, Artificial Intelligence, Computation theory
 
-### See also
+#### See also
 [Artificial Intelligence](/artificial_intelligence), [Computer Complexity](/computer_complexity), [Turing Machines](/turing_machines), [Automata theory](/automata_theory), [Theory of computation](/theory_of_computation)
 ## Material
 * Rabin, Michael O. (June 2012). [Turing, Church, Gödel, Computability, Complexity and Randomization: A Personal View](http://videolectures.net/turing100_rabin_turing_church_goedel/).

@@ -7,7 +7,7 @@ Documents are mapped to memory addresses in such a way that semantically similar
 
 ***Tags***: Computer Science, Information Retrieval
 
-### See also
+#### See also
 [Locality Sensitive Hashing](/locality_sensitive_hashing)
 ## Papers
 * Salakhutdinov, R., & Hinton, G. (2007). [Semantic hashing](). RBM, 500(3), 500.

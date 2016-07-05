@@ -8,7 +8,7 @@ Alan Turing proved in 1936 that a general algorithm to solve the halting problem
 
 ***Tags***: Computer science, Artificial Intelligence, Computation theory
 
-### See also
+#### See also
 [Artificial Intelligence](/artificial_intelligence), [Computer Complexity](/computer_complexity), [Turing Machines](/turing_machines), [Automata theory](/automata_theory), [Theory of computation](/theory_of_computation)
 ## Papers
 * Turing, Alan M. (1936-37). [On Computable Numbers, With An Application to the Entscheidungsproblem](http://plms.oxfordjournals.org/content/s2-42/1/230). Proceedings of the London Mathematical Society, Series 2 42: 230-265.

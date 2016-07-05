@@ -10,7 +10,7 @@ A well-known specific case is the Markov chains in which we have a discrete-time
 
 ***Tags***: Stochastic processes
 
-### See also
+#### See also
 [Wiener process](/wiener_process), [Levy process](/levy_process), [Gamma process](/gamma_process), [Poisson process](/poisson_process)
 ## Material
 * [Introduction to Markov Chains on YouTube](https://www.youtube.com/watch?v=o-jdJxXL_W4)

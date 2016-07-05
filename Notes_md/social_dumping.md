@@ -11,7 +11,7 @@ While it happens some states are in a dumping-like game where the Nash-equilibri
 
 ***Tags***: Sociology, Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Race to the bottom](/race_to_the_bottom), [Public goods game](/public_goods_game), [Prisoner's dilemma](/prisoner's_dilemma), [Price dumping](/price_dumping), [Fiscal dumping](/fiscal_dumping), [Paradox of competition](/paradox_of_competition)
 ## Material
 * http://www.collinsdictionary.com/dictionary/english/social-dumping

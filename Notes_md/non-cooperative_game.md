@@ -8,7 +8,7 @@ The non-cooperative games can be sequential or not. Both can be represented by a
 
 ***Tags***: Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory)
 ## Material
 * [Non-Cooperative Game Theory: Having Fun with Strategic Games (slides)](http://scholar.harvard.edu/files/wonbinkang/files/tedy_game_theory.pdf)

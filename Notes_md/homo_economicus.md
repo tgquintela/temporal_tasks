@@ -18,7 +18,7 @@ Another related homo assumption is the *Homo biologicus* assumption.
 
 ***Tags***: Economy, Game Theory, Decision Theory
 
-### See also
+#### See also
 [Neuroeconomics](/neuroeconomics)
 ## Papers
 * O'Boyle, E. J. (2007). [Requiem for homo economicus](http://www.marketsandmorality.com/index.php/mandm/article/download/235/225). Journal of Markets and Morality, 10(2).

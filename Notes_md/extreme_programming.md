@@ -16,7 +16,7 @@ So, in summary:
 
 ***Tags***: Programming, Programming paradigms, Software development
 
-### See also
+#### See also
 [Pair programming](/pair_programming), [Agile software development](/agile_software_development), [Software development](/software_development)
 ## Material
 * Beck, Kent; et al. (2001). ["Manifesto for Agile Software Development"](http://agilemanifesto.org/). Agile Alliance. Retrieved 14 June 2010

@@ -15,7 +15,7 @@ This game is commonly used as a metaphor for electoral competition, with two pol
 
 ***Tags***: Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory)
 ## Papers
 * Gross, O.; Wagner, R. (1950). [A Continuous Colonel Blotto Game](https://www.rand.org/pubs/research_memoranda/2006/RM408.pdf).

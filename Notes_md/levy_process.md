@@ -18,7 +18,7 @@ If ${\displaystyle X}$ is a Lévy process then one may construct a version of ${
 
 ***Tags***: Stochastic processes
 
-### See also
+#### See also
 [Wiener process](/wiener_process)
 ## Papers
 * Eberlein, E. (2001). [Application of generalized hyperbolic Lévy motions to finance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.5237&rep=rep1&type=pdf). In Lévy processes (pp. 319-336). Birkhäuser Boston.

@@ -18,7 +18,7 @@ One of the uses of bagging is random subspace method (or attribute bagging) whic
 
 ***Tags***: Artificial Intelligence, Machine Learning, Statistics
 
-### See also
+#### See also
 [Machine Learning](/machine_learning), [Artificial Neural Networks](/artificial_neural_networks), [Random Forest](/random_forest)
 ## Papers
 * Breiman, L. (1996). [Bagging predictors](http://www.machine-learning.martinsewell.com/ensembles/bagging/Breiman1996.pdf). Machine learning, 24(2), 123-140.

@@ -7,7 +7,7 @@ It is useful to easy use GPU in order to use deep learning algorithms. It has a 
 
 ***Tags***: Computer science, Artificial Intelligence, Software, Deep Learning
 
-### See also
+#### See also
 [Artificial Intelligence](/artificial_intelligence), [Machine learning](/machine_learning), [Python](/python)
 ## Material
 * http://deeplearning.net/

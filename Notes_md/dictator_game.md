@@ -8,7 +8,7 @@ In the dictator game, the first player, "the dictator", determines how to split 
 
 ***Tags***: Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Ultimatum game](/ultimatum_game), [Prisoner's dilemma](/prisoner's_dilemma), [Neuroeconomics](/neuroeconomics), [Public goods game](/public_goods_game), [Trust game](/trust_game)
 ## Papers
 * Bolton, Gary E., Elena Katok, and Rami Zwick. [Dictator game giving: Rules of fairness versus acts of kindness](https://www.researchgate.net/profile/Rami_Zwick/publication/24058634_Dictator_game_giving_rules_of_fairness_versus_acts_of_kindness._Int_J_Game_Theory_27(2)_269-299/links/0fcfd50ca1ba6aace6000000.pdf). International Journal of Game Theory 27.2 (1998): 269-299.

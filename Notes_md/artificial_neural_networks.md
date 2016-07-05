@@ -29,7 +29,7 @@ The main learning algorithms:
 
 ***Tags***: Artificial Intelligence, Connectomics, Machine Learning
 
-### See also
+#### See also
 [Random Forest](/random_forest), [Machine Learning](/machine_learning)
 ## Papers
 * Bertsekas, D. P., & Tsitsiklis, J. N. (1995, December). [Neuro-dynamic programming: an overview](http://web.mit.edu/people/dimitrib/NDP_Encycl.pdf). In Decision and Control, 1995., Proceedings of the 34th IEEE Conference on (Vol. 1, pp. 560-564). IEEE.

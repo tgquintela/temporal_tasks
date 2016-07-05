@@ -11,7 +11,7 @@ The study of the mutualistic networks uses common tools of complex networks as r
 
 ***Tags***: Ecology, Complex systems, Complex networks
 
-### See also
+#### See also
 [Coevolution](/coevolution), [Complex networks](/complex_networks)
 ## Papers
 * Thébault, E., & Fontaine, C. (2010). [Stability of ecological communities and the architecture of mutualistic and trophic networks](http://www.zoology.ubc.ca/bdg/pdfs_bdg/2013/networks/Th%C3%A9bault,%20Fontaine_2010.pdf). Science, 329(5993), 853-856.

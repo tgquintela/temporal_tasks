@@ -26,7 +26,7 @@ A variety of open-source compatible business approaches have gained prominence i
 
 ***Tags***: Marketing, Business, Open-source, Software
 
-### See also
+#### See also
 [Market segmentation](/market_segmentation), [Business models](/business_models)
 ## Material
 * [Open Source Business Models](http://opensourcebestpractices.net/OpenSourceBusinessModels.html), Open Source Business Models at Open source best practices

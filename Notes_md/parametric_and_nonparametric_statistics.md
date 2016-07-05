@@ -62,6 +62,6 @@ The most knwon non-parametric methods are:
 
 ***Tags***: Statistics
 
-### See also
+#### See also
 [Statistical testing](/statistical_testing)
 

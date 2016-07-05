@@ -10,7 +10,7 @@ Behavioral economics emerged to account for these anomalies by integrating socia
 
 ***Tags***: Economics, Neuroscience, Decision Theory
 
-### See also
+#### See also
 [Behavioral economics](/behavioral_economics)
 ## Papers
 * Camerer, C. F., Loewenstein, G., & Prelec, D. (2004). [Neuroeconomics: Why economics needs brains](https://people.hss.caltech.edu/~camerer/scanecon.pdf). The Scandinavian Journal of Economics, 106(3), 555-579.

@@ -24,7 +24,7 @@ The experiment is done sequentially and increasing the commitment. Probably is r
 
 ***Tags***: Sociology
 
-### See also
+#### See also
 [Somebody else's problem](/somebody_else's_problem)
 ## Material
 * Milgram, Stanley (1974). [The Perils of Obedience](https://web.archive.org/web/20101216075927/http://home.swbell.net/revscat/perilsOfObedience.html). Harper's Magazine.

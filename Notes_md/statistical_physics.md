@@ -18,7 +18,7 @@ To understand the global behavior of the system we can do:
 
 ***Tags***: 
 
-### See also
+#### See also
 [Nonequilibrium Statistical Mechanics](/nonequilibrium_statistical_mechanics)
 ## Material
 * [Philosophy of Statistical Mechanics article](http://plato.stanford.edu/entries/statphys-statmech/) by Lawrence Sklar for the Stanford Encyclopedia of Philosophy.

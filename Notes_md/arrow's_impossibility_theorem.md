@@ -18,7 +18,7 @@ The axiomatic approach Arrow adopted can treat all conceivable rules (that are b
 
 ***Tags***: Game Theory, Social Choice Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Social Choice Theory](/social_choice_theory)
 ## Papers
 * Arrow, Kenneth J. (1950). [A Difficulty in the Concept of Social Welfare](https://web.archive.org/web/20110720090207/http://gatton.uky.edu/Faculty/hoytw/751/articles/arrow.pdf). Journal of Political Economy 58 (4): 328-346.

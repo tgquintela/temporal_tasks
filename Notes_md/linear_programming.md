@@ -28,7 +28,7 @@ The main methods for solving linear programming are:
 
 ***Tags***: Computer science, Mathematics, Optimization, Economics, Operations Research
 
-### See also
+#### See also
 [Mathematical Optimization](/mathematical_optimization)
 ## Papers
 * Bland, Robert G. (1977). "New Finite Pivoting Rules for the Simplex Method". Mathematics of Operations Research 2 (2): 103–107

@@ -10,7 +10,7 @@ Later work also considers approaches to compensations and fairness, liberty and 
 
 ***Tags***: Game Theory, Social Choice Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Voting paradox](/voting_paradox), [Arrow's impossibility theorem](/arrow's_impossibility_theorem)
 ## Material
 * http://plato.stanford.edu/entries/social-choice/

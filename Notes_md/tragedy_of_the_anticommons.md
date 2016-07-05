@@ -10,7 +10,7 @@ This term not only generate discussions about its efficiency but also about the 
 
 ***Tags***: Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Tragedy of the commons](/tragedy_of_the_commons), [Prisoner's dilemma](/prisoner's_dilemma)
 ## Papers
 * Heller, M. A.; Eisenberg, R. (May 1998). [Can Patents Deter Innovation? The Anticommons in Biomedical Research](http://science.sciencemag.org/content/280/5364/698.full). Science 280 (5364): 698-701.

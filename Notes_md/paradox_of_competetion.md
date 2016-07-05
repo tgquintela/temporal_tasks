@@ -11,7 +11,7 @@ Stützel distinguishes three categories of paradoxes of competition:
 
 ***Tags***: Sociology, Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Race to the bottom](/race_to_the_bottom), [Public goods game](/public_goods_game), [Prisoner's dilemma](/prisoner's_dilemma), [Price dumping](/price_dumping), [Social dumping](/social_dumping), [Fiscal dumping](/fiscal_dumping), [Tragedy of the commons](/tragedy_of_the_commons)
 ## Books
 * Wolfgang Stützel: [Paradoxa der Geld- und Konkurrenzwirtschaft](https://www.goodreads.com/book/show/14689200-paradoxa-der-geld--und-konkurrenzwirtschaft). Aalen 1979.

@@ -21,7 +21,7 @@ The most common methods used to solve an integer programming problem are:
 
 ***Tags***: Computer science, Mathematics, Optimization, Economics, Operations Research
 
-### See also
+#### See also
 [Mathematical Optimization](/mathematical_optimization)
 ## Papers
 * Nemhauser, George L., and Laurence A. Wolsey. [Integer programming and combinatorial optimization](https://www.researchgate.net/profile/George_Nemhauser/publication/230596114_The_Scope_of_Integer_and_Combinatorial_Optimization/links/53d6964a0cf2f57be98eb884.pdf). Wiley, Chichester. GL Nemhauser, MWP Savelsbergh, GS Sigismondi (1992). Constraint Classification for Mixed Integer Programming Formulations. COAL Bulletin 20 (1988): 8-12.

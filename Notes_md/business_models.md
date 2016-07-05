@@ -29,7 +29,7 @@ Differnt business models:
 
 ***Tags***: Marketing, Business
 
-### See also
+#### See also
 [Market segmentation](/market_segmentation), [Business Intelligence](/business_intelligence), [Business plan](/business_plan)
 ## Material
 * [Why Business Models fail: Pipes vs. Platforms](http://www.wired.com/insights/2013/10/why-business-models-fail-pipes-vs-platforms/), Sangeet Paul Choudary, Wired Magazine

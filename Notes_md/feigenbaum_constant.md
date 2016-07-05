@@ -12,7 +12,7 @@ where $a_n$ are discrete values of a at the nth period doubling.
 
 ***Tags***: Dynamical systems, Chaos, Fractals, Differential equations
 
-### See also
+#### See also
 [Dynamical systems](/dynamical_systems)
 ## Material
 * Moriarty, Philip; Bowley, Roger (2009). [δ - Feigenbaum Constant](http://www.sixtysymbols.com/videos/feigenbaum.htm). Sixty Symbols. Brady Haran for the University of Nottingham.

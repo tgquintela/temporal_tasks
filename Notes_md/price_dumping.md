@@ -10,7 +10,7 @@ The term has a negative connotation, as advocates of competitive markets see "du
 
 ***Tags***: Sociology, Game Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Race to the bottom](/race_to_the_bottom), [Public goods game](/public_goods_game), [Prisoner's dilemma](/prisoner's_dilemma), [Fiscal dumping](/fiscal_dumping), [Social dumping](/social_dumping), [Paradox of competition](/paradox_of_competition)
 ## Material
 * [European Commission Anti-Dumping page](http://ec.europa.eu/trade/policy/accessing-markets/trade-defence/actions-against-imports-into-the-eu/anti-dumping/index_en.htm)

@@ -17,7 +17,7 @@ Examples of possible statistical tests to use:
 
 ***Tags***: Statistics, Business intelligence, Marketing
 
-### See also
+#### See also
 [Statistical testing](/statistical_testing)
 ## Material
 * [scipy.stats](http://docs.scipy.org/doc/scipy/reference/stats.html)

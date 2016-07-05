@@ -33,7 +33,7 @@ Typical related problems
 
 ***Tags***: Computer science, Mathematics, Optimization, Economics, Operations Research
 
-### See also
+#### See also
 [Mathematical Optimization](/mathematical_optimization), [Combinatorics](/combinatorics)
 ## Material
 * http://www.journals.elsevier.com/discrete-optimization

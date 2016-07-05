@@ -10,6 +10,6 @@ A example of normed vector spaces are the Hilbert space and the Bannach space.
 
 ***Tags***: Topology, Functional analysis
 
-### See also
+#### See also
 [Functional analysis](/functional_analysis), [Metric space](/metric_space), [Bannach space](/bannach_space)
 

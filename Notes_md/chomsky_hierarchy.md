@@ -10,6 +10,6 @@ It is used also to measure the power of a computational model by studying the cl
 
 ***Tags***: Computer science, Artificial Intelligence, Computation theory
 
-### See also
+#### See also
 [Artificial Intelligence](/artificial_intelligence), [Computer Complexity](/computer_complexity), [Turing Machines](/turing_machines), [Automata theory](/automata_theory), [Theory of computation](/theory_of_computation)
 

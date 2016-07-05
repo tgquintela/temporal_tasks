@@ -16,7 +16,7 @@ The "deterrence strategy" is not a Nash equilibrium: It relies on the non-credib
 
 ***Tags***: Game Theory, Decision Theory
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Selten's levels of decision making](/selten's_levels_of_decision_making)
 ## Papers
 * Selten, Reinhard (1978). "The chain store paradox". Theory and Decision 9 (2): 127-159.

@@ -12,7 +12,7 @@ In modern introductory texts to functional analysis, the subject is seen as the 
 
 ***Tags***: Topology, Functional analysis
 
-### See also
+#### See also
 [Calculus of variations](/calculus_of_variations)
 ## Books
 * Kreyszig, E. (1989). [Introductory functional analysis with applications](https://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications). New York: wiley.

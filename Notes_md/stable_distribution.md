@@ -16,7 +16,7 @@ By the classical central limit theorem the properly normed sum of a set of rando
 
 ***Tags***: Probability theory, Stochastic processes
 
-### See also
+#### See also
 [Levy distribution](/levy_distribution)
 ## Papers
 * LePage, R., Woodroofe, M., & Zinn, J. (1981). [Convergence to a stable distribution via order statistics](http://projecteuclid.org/download/pdf_1/euclid.aop/1176994367). The Annals of Probability, 624-632.

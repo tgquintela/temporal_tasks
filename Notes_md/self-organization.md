@@ -16,7 +16,7 @@ Some scientist considered the following views as principles of self-organization
 
 ***Tags***: Complex systems, Statistical Physics, Dynamical systems, Economics
 
-### See also
+#### See also
 [Complex systems](/complex_systems), [Dynamical systems](/dynamical_systems), [Self-organizing criticality](/self-organizing_criticality), [Collective Intelligence](/collective_intelligence), [Self-organizing maps](/self-organizing_maps)
 ## Material
 * [Max Planck Institute for Dynamics and Self-Organization, Göttingen](http://www.ds.mpg.de/english/research/index.php)

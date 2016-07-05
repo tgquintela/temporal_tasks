@@ -12,7 +12,7 @@ This term groups a lot of different situations as:
 
 ***Tags***: Sociology, Game Theory, Psychology
 
-### See also
+#### See also
 [Game Theory](/game_theory), [Tragedy of the commons](/tragedy_of_the_commons)
 ## Papers
 * Platt, J. (1973). [Social Traps](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Negotiation_and_Conflict_Management/Platt_1973_Social_traps.pdf). American Psychologist 28 (8): 641-651.

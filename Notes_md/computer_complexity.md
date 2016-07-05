@@ -12,7 +12,7 @@ Perhaps the most important open problem in all of computer science is the questi
 
 ***Tags***: Computer science, Artificial Intelligence
 
-### See also
+#### See also
 [Artificial Intelligence](/artificial_intelligence), [Computer Complexity](/computer_complexity), [Turing Machines](/turing_machines), [P versus NP problem](/p_versus_np_problem)
 ## Material
 * https://en.wikipedia.org/wiki/File:Complexity_subsets_pspace.svg

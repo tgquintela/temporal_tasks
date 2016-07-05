@@ -12,7 +12,7 @@ fMRI is used both in the research world, and to a lesser extent, in the clinical
 
 ***Tags***: Neuroscience, Imaging technique
 
-### See also
+#### See also
 [dMRI](/dmri), [EEG](/eeg), [PET](/pet)
 ## Papers
 * Logothetis, N. K., Pauls, J., Augath, M., Trinath, T., & Oeltermann, A. (2001). [Neurophysiological investigation of the basis of the fMRI signal](http://www.nature.com/nature/journal/v412/n6843/full/412150a0.html). Nature, 412(6843), 150-157.

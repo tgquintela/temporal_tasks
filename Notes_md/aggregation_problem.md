@@ -8,7 +8,7 @@ If the aggregated or emergence phenomena depends on dispersion of features (2nd 
 
 ***Tags***: Economics, Sociology, Science, Data science, Statistics, Measures
 
-### See also
+#### See also
 [Areal unit problem](/areal_unit_problem)
 ## Papers
 * Zellner, A. (1969). [On the aggregation problem: A new approach to a troublesome problem](http://link.springer.com/chapter/10.1007/978-3-642-46198-9_16). In Economic models, estimation and risk programming: Essays in honor of Gerhard Tintner (pp. 365-374). Springer Berlin Heidelberg.

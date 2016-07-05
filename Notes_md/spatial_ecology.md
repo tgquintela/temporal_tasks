@@ -12,7 +12,7 @@ Although spatial ecology deals with spatial patterns, it is usually based on obs
 
 ***Tags***: Ecology, Spatial data analysis
 
-### See also
+#### See also
 [Ecosystems](/ecosystems), [Spatial data analysis](/spatial_data_analysis), [Ecosystems](/ecosystems)
 ## Papers
 * Fortin, M.-J.; M.R.T. Dale, J. ver Hoef (2002). [Spatial Analysis in Ecology](http://natelab.uga.edu/FANR8400/Fortin_etal2002.pdf). Encyclopedia of Environmetrics 4: 2051-2058.
